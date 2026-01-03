@@ -2,8 +2,9 @@
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
-
 const app = express(); 
+const cors = require('cors');
+app.use(cors());
 
 const restaurants = JSON.parse(
   fs.readFileSync(path.join(__dirname, "restaurants.json"), "utf-8")
@@ -74,6 +75,6 @@ app.get("/restaurants/:name/menu/:type", (req, res) => {
 const PORT = process.env.PORT || 8080;
 app.listen(PORT, "0.0.0.0", () => {
     console.log(`Server isleyir: ${PORT}`
-      
+
     );
 });
