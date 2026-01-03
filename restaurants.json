@@ -1,0 +1,1008 @@
+[
+  {
+  "id": 1,
+  "name": "Manzara Restaurant",
+  "restaurant_image_links": [
+    "https://tripadvisor.com/PhotoUserDailyGenericLink?photoId=turn1image0",
+    "https://worldjewishtravel.org/link-to-restaurant-image?img=turn1image1",
+    "https://wheree.com/link-to-interior?img=turn1image4",
+    "https://worldjewishtravel.org/terrace-photo?img=turn1image5",
+    "https://yandex.com/maps/org/manzara/147158812263/gallery/?img=turn1image7",
+    "https://tripadvisor.com/photo?img=turn1image8",
+    "https://tripadvisor.com/photo?img=turn1image9"
+  ],
+  "location": {
+    "address": "https://maps.app.goo.gl/gGwpg89WUh4qSSun8"
+  },
+  "menu": [
+    {
+      "category": "Başlanğıclar / Starters",
+      "items": [
+        { "dish": "Tapenade with black olives 200g", "price_AZN": 10 },
+        { "dish": "Smoked eggplant puree 200g", "price_AZN": 10 },
+        { "dish": "Fisincan with red beans 200g", "price_AZN": 10 },
+        { "dish": "Sun‑dried tomatoes with strained yogurt 200g", "price_AZN": 12 },
+        { "dish": "Velvet pepper puree 200g", "price_AZN": 10 },
+        { "dish": "Labneh cheese with fried olives 200g", "price_AZN": 12 },
+        { "dish": "Caramelized garlic with sesame 200g", "price_AZN": 10 }
+      ]
+    },
+    {
+      "category": "Salatlar / Salads",
+      "items": [
+        { "dish": "Manzara salad 220g", "price_AZN": 18 },
+        { "dish": "Baku salad with tomato and goat cheese 220g", "price_AZN": 14 },
+        { "dish": "Caprese salad with fried eggplant 220g", "price_AZN": 18 },
+        { "dish": "Baku‑style grilled vegetable salad 220g", "price_AZN": 12 },
+        { "dish": "Shepherd's salad with cheese 220g", "price_AZN": 12 },
+        { "dish": "Burrata salad with cherry tomatoes 220g", "price_AZN": 26 },
+        { "dish": "Summer chicken salad 220g", "price_AZN": 18 },
+        { "dish": "Popcorn shrimp salad 220g", "price_AZN": 22 },
+        { "dish": "Crispy eggplant salad 220g", "price_AZN": 20 },
+        { "dish": "Caesar salad with chicken 220g", "price_AZN": 18 },
+        { "dish": "Caesar salad with shrimp 220g", "price_AZN": 22 }
+      ]
+    },
+    {
+      "category": "Appetizers",
+      "items": [
+        { "dish": "Assorted gourmet meat 180g", "price_AZN": 26 },
+        { "dish": "Assorted smoked fish 180g", "price_AZN": 40 },
+        { "dish": "Assorted Azerbaijani cheeses 400g", "price_AZN": 22 },
+        { "dish": "Assorted European cheeses 240g", "price_AZN": 40 },
+        { "dish": "Fresh vegetables and herbs 350g", "price_AZN": 16 },
+        { "dish": "Homemade pickles 250g", "price_AZN": 14 },
+        { "dish": "Profiteroles stuffed with cheese 180g", "price_AZN": 14 },
+        { "dish": "Homemade chicken liver pâté 180g", "price_AZN": 14 },
+        { "dish": "Gurza dumplings with sauce 250g", "price_AZN": 20 },
+        { "dish": "Mini qutabs with spicy sauce 250g", "price_AZN": 18 },
+        { "dish": "Ganja kette with greens and butter 500g", "price_AZN": 20 },
+        { "dish": "Ganja kette with lamb 500g", "price_AZN": 30 },
+        { "dish": "Grilled corn 250g", "price_AZN": 10 },
+        { "dish": "Homemade potatoes in butter 200g", "price_AZN": 10 }
+      ]
+    },
+    {
+      "category": "Soups",
+      "items": [
+        { "dish": "Bean soup with fried meat 250g", "price_AZN": 14 },
+        { "dish": "Cream soup with roasted pepper 250g", "price_AZN": 14 },
+        { "dish": "Chicken soup 250g", "price_AZN": 10 },
+        { "dish": "Dovga with meatballs 250g", "price_AZN": 14 },
+        { "dish": "Dushbara 250g", "price_AZN": 10 }
+      ]
+    },
+    {
+      "category": "Seafood Dishes",
+      "items": [
+        { "dish": "Baku‑style fried trout 220g", "price_AZN": 24 },
+        { "dish": "Oven‑baked Sea bass with herbs 220g", "price_AZN": 32 },
+        { "dish": "Grilled salmon 220g", "price_AZN": 32 },
+        { "dish": "Almond‑crusted Sea bass 240g", "price_AZN": 36 },
+        { "dish": "Sturgeon kebab 220g", "price_AZN": 75 },
+        { "dish": "Shrimps in butter 180g", "price_AZN": 20 }
+      ]
+    },
+    {
+      "category": "Meat Dishes",
+      "items": [
+        { "dish": "Chef's special beef stroganoff 260g", "price_AZN": 34 },
+        { "dish": "Osso buco from aged beef 300g", "price_AZN": 34 },
+        { "dish": "Young lamb cubes with chestnut 260g", "price_AZN": 36 },
+        { "dish": "Lamb leg with special sauce 300g", "price_AZN": 36 },
+        { "dish": "Oriental lamb mechoui 300g", "price_AZN": 32 },
+        { "dish": "Tandiir burger 250g", "price_AZN": 22 }
+      ]
+    },
+    {
+      "category": "Chicken Dishes",
+      "items": [
+        { "dish": "Chicken fillet with creamy pesto sauce 260g", "price_AZN": 28 },
+        { "dish": "Crispy chicken thigh 260g", "price_AZN": 28 },
+        { "dish": "Boneless tabaka 400g", "price_AZN": 26 },
+        { "dish": "Chicken lavangi 260g", "price_AZN": 26 },
+        { "dish": "Chicken biryani 260g", "price_AZN": 24 }
+      ]
+    },
+    {
+      "category": "Grill & Kebabs",
+      "items": [
+        { "dish": "Baby lamb ribs 220g", "price_AZN": 20 },
+        { "dish": "Tender young lamb cubes 220g", "price_AZN": 20 },
+        { "dish": "Lamb lula kebab 220g", "price_AZN": 20 },
+        { "dish": "Kyrchyn kebab 220g", "price_AZN": 20 },
+        { "dish": "Basturma kebab 220g", "price_AZN": 20 },
+        { "dish": "Beef basturma 220g", "price_AZN": 20 },
+        { "dish": "Meze kebab 220g", "price_AZN": 20 },
+        { "dish": "Shapalak kebab 300g", "price_AZN": 34 },
+        { "dish": "Chicken fillet kebab 220g", "price_AZN": 18 },
+        { "dish": "Chicken kebab 240g", "price_AZN": 16 }
+      ]
+    },
+    {
+      "category": "Josper Grill & Specials",
+      "items": [
+        { "dish": "Manzara special lokum 300g", "price_AZN": 40 },
+        { "dish": "Asado beef ribs (2.5kg) pre‑order", "price_AZN": 160 },
+        { "dish": "Ribeye steak (Prime) 320g", "price_AZN": 90 },
+        { "dish": "Striploin steak (Prime) 320g", "price_AZN": 80 },
+        { "dish": "Lamb leg with charcoal (1.5kg) pre‑order", "price_AZN": 100 },
+        { "dish": "Lamb rack with charcoal (2.5kg) pre‑order", "price_AZN": 180 },
+        { "dish": "Grilled chicken in Josper 1.2kg", "price_AZN": 26 }
+      ]
+    },
+    {
+      "category": "National Cuisine",
+      "items": [
+        { "dish": "Stuffed grape leaf dolma 200g", "price_AZN": 20 },
+        { "dish": "Stuffed vegetable dolma 240g", "price_AZN": 20 },
+        { "dish": "Tumbeki dolma 240g", "price_AZN": 30 },
+        { "dish": "Nakhchivan govurma 300g", "price_AZN": 26 },
+        { "dish": "Pan fried kebab 200g", "price_AZN": 26 },
+        { "dish": "Summer lamb stew 240g", "price_AZN": 24 },
+        { "dish": "Braised veal 240g", "price_AZN": 28 },
+        { "dish": "Karabakh pilaf 300g", "price_AZN": 22 },
+        { "dish": "Dill pilaf with lamb 300g", "price_AZN": 28 },
+        { "dish": "Shusha shah pilaf 300g", "price_AZN": 34 },
+        { "dish": "Fisincan pilaf with chicken meatballs 300g", "price_AZN": 22 }
+      ]
+    },
+    {
+      "category": "Kids Menu",
+      "items": [
+        { "dish": "Chicken nuggets with fries 200g", "price_AZN": 12 },
+        { "dish": "Fried mozzarella balls with fries 200g", "price_AZN": 14 },
+        { "dish": "Beef burger with fries 250g", "price_AZN": 18 },
+        { "dish": "French fries 180g", "price_AZN": 8 },
+        { "dish": "Potato wedges 180g", "price_AZN": 8 }
+      ]
+    },
+    {
+      "category": "Desertlər / Desserts & Sweets",
+      "items": [
+        { "dish": "National baklava 220g", "price_AZN": 18 },
+        { "dish": "Napoleon cake 180g", "price_AZN": 16 },
+        { "dish": "Honey cake 180g", "price_AZN": 14 },
+        { "dish": "Trileçe 180g", "price_AZN": 14 },
+        { "dish": "Apple tart with ice cream 180g", "price_AZN": 16 },
+        { "dish": "Crème brûlée 180g", "price_AZN": 14 },
+        { "dish": "Pavlova 160g", "price_AZN": 14 },
+        { "dish": "Lemon posset 180g", "price_AZN": 16 },
+        { "dish": "Chocolate tiramisu 180g", "price_AZN": 16 },
+        { "dish": "Oreo cheesecake 180g", "price_AZN": 16 },
+        { "dish": "Chocolate profiterol 180g", "price_AZN": 14 },
+        { "dish": "Seasonal fruits 400g", "price_AZN": 35 },
+        { "dish": "Ice cream 120g", "price_AZN": 14 }
+      ]
+    },
+    {
+      "category": "Drinks & Coffee",
+      "items": [
+        { "dish": "Espresso", "price_AZN": 6 },
+        { "dish": "Double Espresso", "price_AZN": 8 },
+        { "dish": "Americano coffee", "price_AZN": 8 },
+        { "dish": "Iced Americano", "price_AZN": 10 },
+        { "dish": "Flat White", "price_AZN": 10 },
+        { "dish": "Cappuccino", "price_AZN": 10 },
+        { "dish": "Hot Matcha Latte", "price_AZN": 10 },
+        { "dish": "Iced Matcha Latte", "price_AZN": 10 },
+        { "dish": "Bumble Coffee", "price_AZN": 16 },
+        { "dish": "Turkish Coffee", "price_AZN": 10 },
+        { "dish": "Latte Macchiato", "price_AZN": 10 },
+        { "dish": "Iced Salted Caramel Latte", "price_AZN": 12 },
+        { "dish": "Frappuccino", "price_AZN": 12 },
+        { "dish": "Hot Chocolate", "price_AZN": 12 },
+        { "dish": "Strawberry Shake", "price_AZN": 18 },
+        { "dish": "Double Caramel Shake", "price_AZN": 18 },
+        { "dish": "Chocolate Wave Shake", "price_AZN": 18 }
+      ]
+    }
+  ]
+},
+  {
+  "id": 2,
+  "name": "Burger Baku",
+  "restaurant_image_links": [
+    "https://burgerbaku.az/wp-content/uploads/restaurant-photo1.jpg",
+    "https://burgerbaku.az/wp-content/uploads/restaurant-photo2.jpg"
+  ],
+  "location": {
+    "address": "https://maps.app.goo.gl/ED8sRKq2rFe7q61p9"
+  },
+  "menu": [
+    {
+      "category": "Burgerlər / Burgers",
+      "items": [
+        { "dish": "Americano Burger (320gr)", "price_AZN": 14 },
+        { "dish": "Bəy Burger (450gr)", "price_AZN": 17 },
+        { "dish": "Diablo Burger (325gr)", "price_AZN": 14 },
+        { "dish": "Steak Burger (430gr)", "price_AZN": 19 },
+        { "dish": "Cheezy Burger (240gr)", "price_AZN": 10 },
+        { "dish": "Mozzarella Burger (270gr)", "price_AZN": 13 },
+        { "dish": "Xalaqızı Burger (300gr)", "price_AZN": 14 },
+        { "dish": "Xalaoğlu Burger (300gr)", "price_AZN": 15 },
+        { "dish": "Shrimpburger (270gr)", "price_AZN": 16 },
+        { "dish": "Teriyaki Chicken Burger (300gr)", "price_AZN": 11 },
+        { "dish": "Spicy Chicken Burger (300gr)", "price_AZN": 12 },
+        { "dish": "Vegetariano Burger (340gr)", "price_AZN": 12 },
+        { "dish": "Burger Hollywood", "price_AZN": 18 },
+        { "dish": "Burger Baku", "price_AZN": 19 },
+        { "dish": "Double Smash Burger", "price_AZN": 18 },
+        { "dish": "Mini Cheeseburger", "price_AZN": 7 },
+        { "dish": "Mini İkiqat Cheeseburger", "price_AZN": 9 },
+        { "dish": "Mini Hamburger", "price_AZN": 6 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Appetizers",
+      "items": [
+        { "dish": "Jumbo Kartof (200gr)", "price_AZN": 4 },
+        { "dish": "Mozzarella Çubuqları (200gr)", "price_AZN": 7 },
+        { "dish": "BBQ Qanadlar (200gr)", "price_AZN": 7 },
+        { "dish": "Acı Bluchiz Qanadlar (210gr)", "price_AZN": 8 },
+        { "dish": "Tempura Krevetlər (125gr)", "price_AZN": 10 },
+        { "dish": "Kalmar tempura (150gr)", "price_AZN": 7 },
+        { "dish": "Toyuq Naqqetsləri (160gr)", "price_AZN": 7 }
+      ]
+    },
+    {
+      "category": "Bowls & Salatlar",
+      "items": [
+        { "dish": "Veggie Bowl (400gr)", "price_AZN": 9 },
+        { "dish": "Shrimp Bowl (430gr)", "price_AZN": 12 },
+        { "dish": "Bəy Salad (340gr)", "price_AZN": 13 },
+        { "dish": "Koulslou Salatı (150gr)", "price_AZN": 4 },
+        { "dish": "Teriyaki Salad", "price_AZN": 10 }
+      ]
+    },
+    {
+      "category": "Hot Dogs / Rolls",
+      "items": [
+        { "dish": "Original Hot Dog", "price_AZN": 8 },
+        { "dish": "Sezar Roll", "price_AZN": 8 }
+      ]
+    },
+    {
+      "category": "Kombolar / Combos",
+      "items": [
+        { "dish": "KIDS Menyu Kombo", "price_AZN": 16 },
+        { "dish": "COUPLE Menyu Kombo", "price_AZN": 38 },
+        { "dish": "FAMILY Menyu Kombo", "price_AZN": 64 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 5 },
+        { "dish": "Coca‑Cola® Zero 330ml", "price_AZN": 5 },
+        { "dish": "Fanta® 330ml", "price_AZN": 5 },
+        { "dish": "Sprite® 330ml", "price_AZN": 5 },
+        { "dish": "Fuse Tea® 330ml", "price_AZN": 5 },
+        { "dish": "Red Bull® 250ml", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "Desertlər / Desserts",
+      "items": [
+        { "dish": "Chocolate Brownie", "price_AZN": 9 },
+        { "dish": "San Sebastian", "price_AZN": 12 },
+        { "dish": "Dubai Cheesecake", "price_AZN": 12 },
+        { "dish": "Tiramisu", "price_AZN": 11 }
+      ]
+    }
+  ]
+},
+ {
+  "id": 3,
+  "name": "Pizza Mizza",
+  "location": {
+    "branches": [
+      {
+        "branch_name": "Pizza Mizza Statistika",
+        "address": "https://maps.app.goo.gl/5q4sX9kR6vqb3Nms7",
+        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo1.jpg"
+      },
+      {
+        "branch_name": "Pizza Mizza Elmlar",
+        "address": "https://maps.app.goo.gl/Q6wYU7nWX9UCJEus7",
+        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo2.jpg"
+      },
+      {
+        "branch_name": "Pizza Mizza Narimanov",
+        "address": "https://maps.app.goo.gl/jEtUphG3vHWUduiN8",
+        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo3.jpg"
+      },
+      {
+        "branch_name": "Pizza Mizza Həzi Aslanov / Xətai",
+        "address": "https://maps.app.goo.gl/MRfuFKNs7CzzfNom9",
+        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo4.jpg"
+      },
+      {
+        "branch_name": "Pizza Mizza Caspian",
+        "address": "https://maps.app.goo.gl/5Epf6MZwvBACwRjb7",
+        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo5.jpg"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "category": "Pizzalar / Pizzas",
+      "items": [
+        { "dish": "Pizza Marqarita", "price_AZN": 9.90 },
+        { "dish": "Pepperoni Pizza", "price_AZN": 13.90 },
+        { "dish": "Pizza Fungi Kon Pollo", "price_AZN": 11.90 },
+        { "dish": "Pizza Meksikana", "price_AZN": 12.90 },
+        { "dish": "Meqa Miks Pizza", "price_AZN": 14.90 },
+        { "dish": "Pizza Beş Pendir", "price_AZN": 12.90 },
+        { "dish": "Pizza Quattro Stagioni", "price_AZN": 13.90 },
+        { "dish": "Pizza Hawaii", "price_AZN": 12.90 },
+        { "dish": "Pizza Diavola", "price_AZN": 13.90 },
+        { "dish": "Pizza Calzone", "price_AZN": 14.50 },
+        { "dish": "Pizza Tonno e Cipolla", "price_AZN": 13.50 },
+        { "dish": "Pizza Prosciutto e Funghi", "price_AZN": 13.90 },
+        { "dish": "Pizza Vegetariana", "price_AZN": 12.90 },
+        { "dish": "Pizza Chicken BBQ", "price_AZN": 14.90 },
+        { "dish": "Pizza Meat Lovers", "price_AZN": 15.50 },
+        { "dish": "Pizza Tuna Special", "price_AZN": 14.50 },
+        { "dish": "Pizza Spinaci", "price_AZN": 12.90 },
+        { "dish": "Pizza Capricciosa", "price_AZN": 13.90 }
+      ]
+    },
+    {
+      "category": "Salatlar / Salads",
+      "items": [
+        { "dish": "Caesar Salad", "price_AZN": 8.50 },
+        { "dish": "Greek Salad", "price_AZN": 8.00 },
+        { "dish": "Caprese Salad", "price_AZN": 9.50 },
+        { "dish": "Garden Salad", "price_AZN": 7.50 }
+      ]
+    },
+    {
+      "category": "Desertlər / Desserts",
+      "items": [
+        { "dish": "Tiramisu", "price_AZN": 7.00 },
+        { "dish": "Chocolate Cake", "price_AZN": 6.50 },
+        { "dish": "Cheesecake", "price_AZN": 6.90 },
+        { "dish": "Panna Cotta", "price_AZN": 6.00 }
+      ]
+    },
+    {
+      "category": "Kombolar / Combos",
+      "items": [
+        { "dish": "1 Pizza + 2‑ci pizza 50% endirim", "price_AZN": 22.35 },
+        { "dish": "Ailəvi Kombo Seti", "price_AZN": 32.90 },
+        { "dish": "2 Pizza + 2 içki", "price_AZN": 28.50 },
+        { "dish": "3 Pizza + 3 içki + Desert", "price_AZN": 45.00 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola 330ml", "price_AZN": 3.50 },
+        { "dish": "Fanta 330ml", "price_AZN": 3.50 },
+        { "dish": "Sprite 330ml", "price_AZN": 3.50 },
+        { "dish": "Ayran 250ml", "price_AZN": 2.50 },
+        { "dish": "Mineral Water 500ml", "price_AZN": 2.00 }
+      ]
+    }
+  ]
+}
+,
+{
+  "id": 4,
+  "name": "Sushi Room",
+  "location": {
+    "city": "Bakı",
+    "address": "91 Nizami St, Baku 1010, Azerbaijan",
+    "branches": [
+      {
+        "branch_name": "Sushi Room Nizami",
+        "address": "91 Nizami St, Baku 1010, Azerbaijan",
+        "image_link": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/0-CcE5sAjVx3u0JlSK/hero/4f8162b56e6543bc9d49b40ffbcad538_1618266382674856859.jpeg"
+      },
+      {
+        "branch_name": "Sushi Room Sahil",
+        "address": "Sahil, Bakı, Azerbaijan",
+        "image_link": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/0-CcE5sAjVx3u0JlSK/hero/4f8162b56e6543bc9d49b40ffbcad538_1618266382674856859.jpeg"
+      },
+      {
+        "branch_name": "Sushi Room Həzi Aslanov",
+        "address": "Həzi Aslanov, Bakı, Azerbaijan",
+        "image_link": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/0-CcE5sAjVx3u0JlSK/hero/4f8162b56e6543bc9d49b40ffbcad538_1618266382674856859.jpeg"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "category": "Sushi Roll 🍣",
+      "items": [
+        { "dish": "Kappa Maki", "price_AZN": 6 },
+        { "dish": "Tamaqo Maki", "price_AZN": 7 },
+        { "dish": "Vegan Roll", "price_AZN": 8 },
+        { "dish": "Qommen Roll", "price_AZN": 8 },
+        { "dish": "Yasai Roll", "price_AZN": 8 },
+        { "dish": "Tamago Roll", "price_AZN": 9 },
+        { "dish": "Caesar Roll", "price_AZN": 9 },
+        { "dish": "Reidzi Roll", "price_AZN": 9 },
+        { "dish": "Ebi Maki", "price_AZN": 10 },
+        { "dish": "Spicy Chicken Roll", "price_AZN": 10 },
+        { "dish": "Paprika Roll", "price_AZN": 10 },
+        { "dish": "Reddo Roll", "price_AZN": 10 },
+        { "dish": "Salmon Maki", "price_AZN": 12 },
+        { "dish": "Akado Maki", "price_AZN": 13 },
+        { "dish": "Salmon Cheese Roll", "price_AZN": 14 },
+        { "dish": "Yeqashi Roll", "price_AZN": 13 },
+        { "dish": "California Crab", "price_AZN": 13 },
+        { "dish": "Khokku", "price_AZN": 15 },
+        { "dish": "California Ebi", "price_AZN": 14 },
+        { "dish": "Spicy Fish", "price_AZN": 13 },
+        { "dish": "California Ikue", "price_AZN": 13 },
+        { "dish": "Chukka Roll", "price_AZN": 15 },
+        { "dish": "Sinobi", "price_AZN": 16 },
+        { "dish": "Crazy Salmon", "price_AZN": 16 },
+        { "dish": "Philadelphia Lite", "price_AZN": 16 },
+        { "dish": "4 Cheese Roll", "price_AZN": 16 },
+        { "dish": "Philadelphia Grill", "price_AZN": 17 },
+        { "dish": "California Salmon", "price_AZN": 17 },
+        { "dish": "Philadelphia Ebi", "price_AZN": 18 },
+        { "dish": "Philadelphia Special", "price_AZN": 19 },
+        { "dish": "Taki", "price_AZN": 19 },
+        { "dish": "Philadelphia Classic", "price_AZN": 21 },
+        { "dish": "Fenshuy", "price_AZN": 23 }
+      ]
+    },
+    {
+      "category": "Hot Rolls 🍘",
+      "items": [
+        { "dish": "Vegan Hot Roll", "price_AZN": 11 },
+        { "dish": "Crunch Hot Roll", "price_AZN": 12 },
+        { "dish": "Kani Hot Roll", "price_AZN": 13 },
+        { "dish": "America Hot Roll", "price_AZN": 13 },
+        { "dish": "Ebi Hot Roll", "price_AZN": 14 },
+        { "dish": "California Hot Roll", "price_AZN": 14 },
+        { "dish": "Bonsai Hot Roll", "price_AZN": 15 },
+        { "dish": "Magura Hot Roll", "price_AZN": 17 }
+      ]
+    },
+    {
+      "category": "Noodles & Rice 🥢",
+      "items": [
+        { "dish": "Rice Vegan", "price_AZN": 9 },
+        { "dish": "Rice Chicken", "price_AZN": 12 },
+        { "dish": "Rice Shrimp", "price_AZN": 15 },
+        { "dish": "Rice Salmon", "price_AZN": 17 },
+        { "dish": "Rice Seafood", "price_AZN": 18 },
+        { "dish": "Udon Vegetable", "price_AZN": 9 },
+        { "dish": "Udon Chicken", "price_AZN": 12 },
+        { "dish": "Udon Shrimp", "price_AZN": 15 },
+        { "dish": "Udon Salmon", "price_AZN": 17 },
+        { "dish": "Udon Seafood", "price_AZN": 18 }
+      ]
+    },
+    {
+      "category": "Drinks & Extras 🍹",
+      "items": [
+        { "dish": "Cappy Multivitamin Juice 200ml", "price_AZN": 2 },
+        { "dish": "Bonaqua Water 500ml", "price_AZN": 2.5 },
+        { "dish": "Coca‑Cola 330ml", "price_AZN": 3.9 },
+        { "dish": "Sprite 330ml", "price_AZN": 3.9 },
+        { "dish": "Fanta 330ml", "price_AZN": 3.9 }
+      ]
+    }
+  ]
+},
+{
+  "id": 4,
+  "name": "Firuze Restaurant",
+  "restaurant_image_links": [
+    "https://wolt.com/en/aze/baku/restaurant/firuze-restaurant"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "Tərlan Əliyarbəyov küçəsi 14, Baku 1005, Azerbaijan"
+  },
+  "menu": [
+    {
+      "category": "Soyuq Başlanğıclar / Cold Starters",
+      "items": [
+        { "dish": "Fresh tomato, cucumber & greens", "price_AZN": 9 },
+        { "dish": "Olives plate", "price_AZN": 7 },
+        { "dish": "Naramla (cold dish)", "price_AZN": 7 },
+        { "dish": "Fish plate (assorted)", "price_AZN": 37 },
+        { "dish": "Dipping platter", "price_AZN": 21 },
+        { "dish": "Suzma with greens", "price_AZN": 7 },
+        { "dish": "Mixed pickles", "price_AZN": 12 },
+        { "dish": "Mirvari", "price_AZN": 13 }
+      ]
+    },
+    {
+      "category": "Salatlar / Salads",
+      "items": [
+        { "dish": "Firuze salad with beef tenderloin", "price_AZN": 29.9 },
+        { "dish": "Firuze salad with chicken", "price_AZN": 21 },
+        { "dish": "Caspian salad", "price_AZN": 25 },
+        { "dish": "Crispy eggplant salad", "price_AZN": 14.5 },
+        { "dish": "Flaming Baku salad", "price_AZN": 10 },
+        { "dish": "Tongal salad", "price_AZN": 23 },
+        { "dish": "Cherry and tomato salad", "price_AZN": 12 },
+        { "dish": "Chicken popcorn salad", "price_AZN": 18 },
+        { "dish": "Choban salad", "price_AZN": 9 },
+        { "dish": "Caesar salad with chicken", "price_AZN": 16 },
+        { "dish": "Caesar salad with prawns", "price_AZN": 19 },
+        { "dish": "Sea pleasure salad", "price_AZN": 28 },
+        { "dish": "Fattoush salad", "price_AZN": 16 },
+        { "dish": "Tabbouleh salad", "price_AZN": 16 },
+        { "dish": "Greek salad", "price_AZN": 11 }
+      ]
+    },
+    {
+      "category": "Şorbalar / Soups",
+      "items": [
+        { "dish": "Firuze soup", "price_AZN": 9 },
+        { "dish": "Noodle soup", "price_AZN": 9 },
+        { "dish": "Dushbere", "price_AZN": 9 },
+        { "dish": "Dovga", "price_AZN": 9 },
+        { "dish": "Shi with greens", "price_AZN": 9 },
+        { "dish": "Lentil soup", "price_AZN": 9 },
+        { "dish": "Borsh", "price_AZN": 9 },
+        { "dish": "Mushroom soup", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "Qazan Yeməkləri / Traditional Stews & Dolma",
+      "items": [
+        { "dish": "Grape leaves dolma", "price_AZN": 14 },
+        { "dish": "Cabbage dolma", "price_AZN": 14 },
+        { "dish": "Three sisters dolma", "price_AZN": 14 },
+        { "dish": "Sweet dolma", "price_AZN": 14 },
+        { "dish": "Sheki style piti", "price_AZN": 20 },
+        { "dish": "Buglama", "price_AZN": 20 },
+        { "dish": "Boiled lamb", "price_AZN": 20 }
+      ]
+    },
+    {
+      "category": "Plovlar / Pilafs",
+      "items": [
+        { "dish": "Traditional pilaf", "price_AZN": 19 },
+        { "dish": "Firuze pilaf", "price_AZN": 19 },
+        { "dish": "Turshu govurma pilaf", "price_AZN": 19 },
+        { "dish": "Dill pilaf", "price_AZN": 19 },
+        { "dish": "Cherry pilaf", "price_AZN": 19 }
+      ]
+    },
+    {
+      "category": "Qril / Grill",
+      "items": [
+        { "dish": "Grilled lamb chops", "price_AZN": 18 },
+        { "dish": "Grilled lamb", "price_AZN": 14 },
+        { "dish": "Lyulya kebab", "price_AZN": 13 },
+        { "dish": "Grilled chicken", "price_AZN": 9 },
+        { "dish": "Beef bastyrma", "price_AZN": 14 }
+      ]
+    },
+    {
+      "category": "Balıq Növləri / Fish Dishes",
+      "items": [
+        { "dish": "Firuze fish (Oscietra)", "price_AZN": 57 },
+        { "dish": "Gilavar (salmon)", "price_AZN": 45 },
+        { "dish": "Pan fried kutum", "price_AZN": 31 },
+        { "dish": "Salmon pan fried", "price_AZN": 36 },
+        { "dish": "Pan fried trout", "price_AZN": 39 }
+      ]
+    },
+    {
+      "category": "Ət Yeməkləri / Meat Dishes",
+      "items": [
+        { "dish": "Firuze steak", "price_AZN": 41 },
+        { "dish": "Tenderloin meat BBQ", "price_AZN": 35 },
+        { "dish": "Azerbaijani roast lamb", "price_AZN": 39 },
+        { "dish": "Tas kebab", "price_AZN": 34 },
+        { "dish": "Djiz biz", "price_AZN": 17 }
+      ]
+    },
+    {
+      "category": "Toyuq Yeməkləri / Chicken Dishes",
+      "items": [
+        { "dish": "Firuze Chicken", "price_AZN": 18 },
+        { "dish": "Chicken levengi", "price_AZN": 53 }
+      ]
+    },
+    {
+      "category": "Pizzalar & İstilik Yeməkləri",
+      "items": [
+        { "dish": "Pizza Margarita", "price_AZN": 20 }
+      ]
+    },
+    {
+      "category": "Desertlər / Desserts",
+      "items": [
+        { "dish": "San Sebastian", "price_AZN": 13 },
+        { "dish": "Baku Baklava", "price_AZN": 9 },
+        { "dish": "Shekerbura", "price_AZN": 9 },
+        { "dish": "Havuch Dilim Baklava", "price_AZN": 13 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 5.5 }
+      ]
+    }
+  ]
+},
+{
+  "id": 6,
+  "name": "Konak Baku",
+  "restaurant_image_links": [
+    "https://www.instagram.com/konak_baku/?hl=en"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/yQmLyfQoLVpcMob88"
+  },
+  "menu": [
+    {
+      "category": "Fast Food / Quick Bites",
+      "items": [
+        { "dish": "Kartof Fri", "price_AZN": 2.50 },
+        { "dish": "Kəndsayağı Ədviyyatlı Kartof", "price_AZN": 3.00 },
+        { "dish": "Evsayağı Kartof", "price_AZN": 2.50 },
+        { "dish": "Nuggets", "price_AZN": 4.90 },
+        { "dish": "Nuggets + Fri", "price_AZN": 6.50 },
+        { "dish": "Chicken Roll", "price_AZN": 4.50 },
+        { "dish": "Chicken Roll + Fri", "price_AZN": 6.50 },
+        { "dish": "Acılı Toyuq Qanadları", "price_AZN": 3.90 },
+        { "dish": "Acılı Toyuq Qanadları + Fri", "price_AZN": 5.90 },
+        { "dish": "Chicken Burger", "price_AZN": 3.50 },
+        { "dish": "Chicken Burger + Fri", "price_AZN": 5.90 },
+        { "dish": "Meat Burger", "price_AZN": 4.50 },
+        { "dish": "Meat Burger + Fri", "price_AZN": 6.90 },
+        { "dish": "Double Burger", "price_AZN": 5.90 },
+        { "dish": "Double Burger + Fri", "price_AZN": 7.30 }
+      ]
+    },
+    {
+      "category": "Pizzalar / Pizzas",
+      "items": [
+        { "dish": "Marqarita Pizza (28cm)", "price_AZN": 6.90 },
+        { "dish": "Marqarita Pizza (33cm)", "price_AZN": 8.90 },
+        { "dish": "Toyuqlu Pizza (28cm)", "price_AZN": 7.90 },
+        { "dish": "Toyuqlu Pizza (33cm)", "price_AZN": 9.90 },
+        { "dish": "Sucuklu Pizza (28cm)", "price_AZN": 9.50 },
+        { "dish": "Sucuklu Pizza (33cm)", "price_AZN": 11.50 },
+        { "dish": "Sosiskalı Pizza (28cm)", "price_AZN": 8.90 },
+        { "dish": "Sosiskalı Pizza (33cm)", "price_AZN": 11.50 }
+      ]
+    },
+    {
+      "category": "Sides & Salads",
+      "items": [
+        { "dish": "Çoban Salatı", "price_AZN": 2.90 },
+        { "dish": "Paytaxt Salatı", "price_AZN": 3.00 },
+        { "dish": "Toyuq Salatı", "price_AZN": 3.00 },
+        { "dish": "Mimoza Salatı", "price_AZN": 3.90 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 1.80 },
+        { "dish": "Fanta® 330ml", "price_AZN": 1.80 },
+        { "dish": "Sprite® 330ml", "price_AZN": 1.80 },
+        { "dish": "Su Bonaqua® 500ml", "price_AZN": 1.30 },
+        { "dish": "Ayran 300ml", "price_AZN": 1.90 }
+      ]
+    }
+  ]
+},
+{
+  "id": 7,
+  "name": "Fryday - Caspian Plaza",
+  "restaurant_image_links": [
+    "https://fryday.az/wp-content/uploads/2025/01/fryday-burgers.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/TB4Zm27PSYR8e8fL6"
+  },
+  "menu": [
+    {
+      "category": "Burgerlər / Burgers",
+      "items": [
+        { "dish": "Fryday Burger", "price_AZN": 13.90 },
+        { "dish": "Fryday Cheeseburger", "price_AZN": 14.90 },
+        { "dish": "X Burger", "price_AZN": 16.90 },
+        { "dish": "Bum Bum Burger", "price_AZN": 15.50 },
+        { "dish": "Outlaw Burger", "price_AZN": 15.50 },
+        { "dish": "Halz Burger", "price_AZN": 15.90 },
+        { "dish": "Monster Burger", "price_AZN": 19.90 },
+        { "dish": "Double Cheeseburger", "price_AZN": 17.50 },
+        { "dish": "DonMaxx", "price_AZN": 14.50 },
+        { "dish": "Fryday Chicken Burger", "price_AZN": 13.30 }
+      ]
+    },
+    {
+      "category": "Wraplar / Wraps",
+      "items": [
+        { "dish": "Fryday Wrap", "price_AZN": 8.50 },
+        { "dish": "Zinger Wrap", "price_AZN": 8.50 },
+        { "dish": "Caesar Wrap", "price_AZN": 8.50 }
+      ]
+    },
+    {
+      "category": "Başlanğıclar & Fry / Starters & Fries",
+      "items": [
+        { "dish": "Kartof Fri", "price_AZN": 2.50 },
+        { "dish": "Chili Cheese Fries", "price_AZN": 6.50 },
+        { "dish": "Mozzarella Çubuqları", "price_AZN": 8.90 },
+        { "dish": "Chicken Nuggets + French Fries", "price_AZN": 8.90 },
+        { "dish": "Onion Rings", "price_AZN": 6.50 },
+        { "dish": "Buffalo Wings (6 ədəd)", "price_AZN": 8.50 },
+        { "dish": "BBQ Wings (6 ədəd)", "price_AZN": 8.50 }
+      ]
+    },
+    {
+      "category": "Hot‑doglar / Hot Dogs",
+      "items": [
+        { "dish": "Classic Hot Dog", "price_AZN": 7.50 },
+        { "dish": "Fryday Hot Dog", "price_AZN": 8.50 },
+        { "dish": "Spicy Hot Dog", "price_AZN": 8.90 },
+        { "dish": "X‑Dog", "price_AZN": 8.90 },
+        { "dish": "Michigan Hot Dog", "price_AZN": 8.90 }
+      ]
+    },
+    {
+      "category": "Salatlar / Salads",
+      "items": [
+        { "dish": "Coleslaw Salad", "price_AZN": 5.20 },
+        { "dish": "Caesar Salad", "price_AZN": 10.90 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 3.50 },
+        { "dish": "Coca‑Cola® Zero 330ml", "price_AZN": 3.50 },
+        { "dish": "Fanta® 330ml", "price_AZN": 3.50 },
+        { "dish": "Sprite® 330ml", "price_AZN": 3.50 },
+        { "dish": "Fuse Tea® 330ml", "price_AZN": 3.00 },
+        { "dish": "Su 500ml", "price_AZN": 1.70 },
+        { "dish": "Red Bull® 250ml", "price_AZN": 6.40 }
+      ]
+    }
+  ]
+},
+{
+  "id": 8,
+  "name": "Cool Food",
+  "restaurant_image_links": [
+    "https://www.instagram.com/coolfood.az/?hl=en"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/aqDBEBMocGfENHX97"
+  },
+  "menu": [
+    {
+      "category": "Burgerlər / Burgers",
+      "items": [
+        { "dish": "Mentalitet Burger", "price_AZN": 13.80 },
+        { "dish": "Dvoynoy Udar Burger", "price_AZN": 11.40 },
+        { "dish": "Çivauva Burger", "price_AZN": 13.80 },
+        { "dish": "Tako Burger", "price_AZN": 13.80 },
+        { "dish": "Amerikano Burger", "price_AZN": 13.80 },
+        { "dish": "Cool Food Burger", "price_AZN": 13.80 },
+        { "dish": "Çivava Burger Set", "price_AZN": 17.40 }
+      ]
+    },
+    {
+      "category": "Burger Setləri / Burger Sets",
+      "items": [
+        { "dish": "Pan Koko Burger Set", "price_AZN": 10.20 },
+        { "dish": "Çizburger Set", "price_AZN": 12.60 },
+        { "dish": "Amerikano Burger Set", "price_AZN": 13.80 },
+        { "dish": "Dvoynoy Udar Burger Set", "price_AZN": 15.00 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Appetizers",
+      "items": [
+        { "dish": "Amerikanski Kartof (Fri 150g)", "price_AZN": 4.20 },
+        { "dish": "Amerikanski Kartof XXL (300g)", "price_AZN": 5.10 },
+        { "dish": "Mister Naggets", "price_AZN": 9.00 },
+        { "dish": "Koko Popcorn (toyuq)", "price_AZN": 9.00 },
+        { "dish": "Yapon Qanadları (Unaqi Sousu ilə)", "price_AZN": 9.00 },
+        { "dish": "Toyuq Qanadları \"Brilliantovaya Ruka\"", "price_AZN": 9.30 },
+        { "dish": "Mozzarella Pendiri Çubuqları", "price_AZN": 10.80 }
+      ]
+    },
+    {
+      "category": "Hot‑doglar / Hot Dogs",
+      "items": [
+        { "dish": "Etalon Hot Dog", "price_AZN": 6.00 },
+        { "dish": "Hot‑hot Hot Dog (Meksikana)", "price_AZN": 6.60 }
+      ]
+    },
+    {
+      "category": "Sides & Extras",
+      "items": [
+        { "dish": "Spicy French Fries", "price_AZN": 3.90 },
+        { "dish": "Kartof Fri Ədviyyatlı", "price_AZN": 4.90 },
+        { "dish": "Kənd Kartofu Ədviyyatsız", "price_AZN": 5.70 },
+        { "dish": "Lays Xama və Göyərti", "price_AZN": 1.50 },
+        { "dish": "Ketchup", "price_AZN": 0.60 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 3.50 },
+        { "dish": "Fanta® 330ml", "price_AZN": 3.50 },
+        { "dish": "Sprite® 330ml", "price_AZN": 3.50 },
+        { "dish": "Su (Bonaqua® 500ml)", "price_AZN": 2.50 },
+        { "dish": "Ayran 300ml", "price_AZN": 2.50 }
+      ]
+    }
+  ]
+},
+{
+  "id": 9,
+  "name": "Pizza Bruno",
+  "restaurant_image_links": [
+    "https://pizzabruno.az/wp-content/uploads/2025/10/pizza-bruno-baku.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/uUuH7id7sGnnHmwt5"
+  },
+  "menu": [
+    {
+      "category": "Pizzalar / Pizzas",
+      "items": [
+        { "dish": "Bruno Pizza (30‑42 cm)", "price_AZN": 18.50 },
+        { "dish": "Pepperoni Pizza (30‑42 cm)", "price_AZN": 18.50 },
+        { "dish": "BBQ Chicken Pizza (30‑42 cm)", "price_AZN": 18.50 },
+        { "dish": "Big Boss Pizza (30‑42 cm)", "price_AZN": 19.50 },
+        { "dish": "4 Beef Pizza (30‑42 cm)", "price_AZN": 20.50 },
+        { "dish": "Caesar Pizza (30‑42 cm)", "price_AZN": 18.50 },
+        { "dish": "Vesuvi Pizza (30‑42 cm)", "price_AZN": 18.50 },
+        { "dish": "Romania Pizza (30‑42 cm)", "price_AZN": 22.50 }
+      ]
+    },
+    {
+      "category": "Calzone",
+      "items": [
+        { "dish": "Calzone Mozzarella", "price_AZN": 9.50 },
+        { "dish": "Calzone Chicken", "price_AZN": 10.50 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Appetizers",
+      "items": [
+        { "dish": "Pendir Çubuqları", "price_AZN": 10.50 },
+        { "dish": "Garlic Bread", "price_AZN": 8.00 }
+      ]
+    },
+    {
+      "category": "Salatlar / Salads",
+      "items": [
+        { "dish": "Chicken Caesar Salad", "price_AZN": 13.50 },
+        { "dish": "Shrimp Caesar Salad", "price_AZN": 18.50 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 3.50 },
+        { "dish": "Fuse Tea® 330ml", "price_AZN": 4.00 },
+        { "dish": "Su 500ml", "price_AZN": 2.50 }
+      ]
+    }
+  ]
+}
+,
+{
+  "id": 10,
+  "name": "Bake&Roll Sushi Bar",
+  "restaurant_image_links": [
+    "https://www.bakenroll.az/wp-content/uploads/2025/01/bake-roll-sushi.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/dopuGjfENu1QNaTcA"
+  },
+  "menu": [
+    {
+      "category": "Sushi Setlər / Sushi Sets",
+      "items": [
+        { "dish": "Sushi Tort", "price_AZN": 45 },
+        { "dish": "Mini Sushi Set", "price_AZN": 26 },
+        { "dish": "Deluxe Sushi Set", "price_AZN": 23 },
+        { "dish": "Maximus Set", "price_AZN": 37 },
+        { "dish": "America Sushi Set", "price_AZN": 37 },
+        { "dish": "Super Sushi Set", "price_AZN": 39 },
+        { "dish": "Classic Sushi Set", "price_AZN": 57 },
+        { "dish": "Premium Sushi Set", "price_AZN": 59 },
+        { "dish": "Big Sushi Set", "price_AZN": 132 }
+      ]
+    },
+    {
+      "category": "Sushi Rollar / Sushi Rolls",
+      "items": [
+        { "dish": "Kappa Maki Sushi Roll", "price_AZN": 6 },
+        { "dish": "Tamaqo Maki Sushi Roll", "price_AZN": 6 },
+        { "dish": "Gommen Sushi Roll", "price_AZN": 7 },
+        { "dish": "California Classic Sushi Roll", "price_AZN": 16 },
+        { "dish": "California Unagi Sushi Roll", "price_AZN": 17 },
+        { "dish": "Philadelphia Special Sushi Roll", "price_AZN": 17 },
+        { "dish": "Yamaguti Sushi Roll", "price_AZN": 18 },
+        { "dish": "Taki Sushi Roll", "price_AZN": 19 },
+        { "dish": "Dragon Sushi Roll", "price_AZN": 26 },
+        { "dish": "Gold Dragon Sushi Roll", "price_AZN": 26 }
+      ]
+    },
+    {
+      "category": "Hot Rollar / Hot Rolls",
+      "items": [
+        { "dish": "Bonsai Hot Sushi Roll", "price_AZN": 12 },
+        { "dish": "Tuna Maki Baked Sushi Roll", "price_AZN": 13 },
+        { "dish": "Murakami Baked Sushi Roll", "price_AZN": 17 },
+        { "dish": "Filadelfiya Hot Roll", "price_AZN": 15 },
+        { "dish": "Salmon Baked Sushi Roll", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "Nigiri Suşi / Nigiri Sushi",
+      "items": [
+        { "dish": "Avokado Nigiri", "price_AZN": 2 },
+        { "dish": "Ebi Nigiri", "price_AZN": 3 },
+        { "dish": "Salmon Nigiri", "price_AZN": 3 },
+        { "dish": "Tuna Nigiri", "price_AZN": 5 },
+        { "dish": "Unaqi Nigiri", "price_AZN": 6 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Appetizers",
+      "items": [
+        { "dish": "Kartof Fri", "price_AZN": 4 },
+        { "dish": "Toyuqlu Naqqets", "price_AZN": 7 },
+        { "dish": "Sprinq Roll Toyuqlu", "price_AZN": 8 },
+        { "dish": "Edamame", "price_AZN": 8 },
+        { "dish": "Kalmar Tempura", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "Salatlar / Salads",
+      "items": [
+        { "dish": "Cukka Salatı", "price_AZN": 7 },
+        { "dish": "Krab Salatı", "price_AZN": 7 },
+        { "dish": "Tuna Salatı", "price_AZN": 8 },
+        { "dish": "Krevetkalı Sezar Salatı", "price_AZN": 13 }
+      ]
+    },
+    {
+      "category": "Şorbalar / Soups",
+      "items": [
+        { "dish": "Tom Yam", "price_AZN": 10 },
+        { "dish": "Tomato Şorbası", "price_AZN": 5 },
+        { "dish": "Miso Şorbası", "price_AZN": 7 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 3 },
+        { "dish": "Sprite® 330ml", "price_AZN": 3 },
+        { "dish": "Fanta® 330ml", "price_AZN": 3 },
+        { "dish": "Fuse Tea® 330ml", "price_AZN": 3 },
+        { "dish": "Bonaqua® Water 500ml", "price_AZN": 2 }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+]
