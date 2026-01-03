@@ -72,6 +72,4 @@ app.get("/restaurants/:name/menu/:type", (req, res) => {
 });
 
 
-app.listen(5000, () => {
-  console.log("Server isleyir");
-});
+
