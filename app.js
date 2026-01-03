@@ -71,5 +71,9 @@ app.get("/restaurants/:name/menu/:type", (req, res) => {
   res.json(restaurant.menu[type]);
 });
 
-
-
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, "0.0.0.0", () => {
+    console.log(`Server isleyir: ${PORT}`
+      
+    );
+});
