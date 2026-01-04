@@ -2,14 +2,8 @@
   {
   "id": 1,
   "name": "Manzara Restaurant",
-  "restaurant_image_links": [
-    "https://tripadvisor.com/PhotoUserDailyGenericLink?photoId=turn1image0",
-    "https://worldjewishtravel.org/link-to-restaurant-image?img=turn1image1",
-    "https://wheree.com/link-to-interior?img=turn1image4",
-    "https://worldjewishtravel.org/terrace-photo?img=turn1image5",
-    "https://yandex.com/maps/org/manzara/147158812263/gallery/?img=turn1image7",
-    "https://tripadvisor.com/photo?img=turn1image8",
-    "https://tripadvisor.com/photo?img=turn1image9"
+  "image_link": [
+    "https://www.google.com/maps/place/Manzara+Restaurant/@40.3567757,49.8304656,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipODegcayPvOnRLkjH98VeZ5aKsWVDfD8DyUTJsX!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipODegcayPvOnRLkjH98VeZ5aKsWVDfD8DyUTJsX%3Dw86-h107-k-no!7i2400!8i3000!4m7!3m6!1s0x40307d09eb6f1971:0x6b85eebdec8b56da!8m2!3d40.3567453!4d49.8303247!10e5!16s%2Fg%2F11sx4pbrbb?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D#"
   ],
   "location": {
     "address": "https://maps.app.goo.gl/gGwpg89WUh4qSSun8"
@@ -202,9 +196,8 @@
   {
   "id": 2,
   "name": "Burger Baku",
-  "restaurant_image_links": [
-    "https://burgerbaku.az/wp-content/uploads/restaurant-photo1.jpg",
-    "https://burgerbaku.az/wp-content/uploads/restaurant-photo2.jpg"
+  "image_link": [
+    "https://www.google.com/maps/place/Burger+Baku/@40.3719902,49.8379438,3a,75y,90t/data=!3m8!1e2!3m6!1sCIABIhADyddmIja2G2es-VAADaer!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAG0ilSykVcUMKKYc1vH1cYW3oDR28gLimMFKoN1XkLnaoS5t9OtryTvxo7w59_e6Gzu3bHimFNOJPQh_8lUZnWbft2hpNph42FxDB1BK2qRemElC3zmEqgq3pyP_B5x16S4rPVzj_aRu9YcNRkI%3Dw203-h162-k-no!7i3780!8i3024!4m11!1m2!2m1!1sburger+baku!3m7!1s0x40307d002fa0455d:0x4a83a4b61eb3fe11!8m2!3d40.3720124!4d49.8380214!10e5!15sCgtidXJnZXIgYmFrdVoNIgtidXJnZXIgYmFrdZIBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVvTVZGck1ERmFWVFZMVTFac1FtTnFiRk5rUld0NVRXdDRlRnBXUlJBQuABAPoBBAg1EC4!16s%2Fg%2F11lyvk8zls?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D#"
   ],
   "location": {
     "address": "https://maps.app.goo.gl/ED8sRKq2rFe7q61p9"
@@ -294,36 +287,11 @@
 },
  {
   "id": 3,
-  "name": "Pizza Mizza",
+  "name": "Pizza Mizza Statistika",
+  "image_link": "https://www.google.com/maps/place/Pizza+Mizza+Statistika/@40.3830319,49.8234541,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOwywNgxrU9ZzPUKEz4wH_SPTT5gjDAJEon7fpF!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOwywNgxrU9ZzPUKEz4wH_SPTT5gjDAJEon7fpF%3Dw203-h135-k-no!7i4061!8i2707!4m7!3m6!1s0x40307d909eaacff9:0x5b30fe3aea6739d9!8m2!3d40.3830601!4d49.8237087!10e5!16s%2Fg%2F11b76fllny?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D#",
   "location": {
-    "branches": [
-      {
-        "branch_name": "Pizza Mizza Statistika",
-        "address": "https://maps.app.goo.gl/5q4sX9kR6vqb3Nms7",
-        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo1.jpg"
-      },
-      {
-        "branch_name": "Pizza Mizza Elmlar",
-        "address": "https://maps.app.goo.gl/Q6wYU7nWX9UCJEus7",
-        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo2.jpg"
-      },
-      {
-        "branch_name": "Pizza Mizza Narimanov",
-        "address": "https://maps.app.goo.gl/jEtUphG3vHWUduiN8",
-        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo3.jpg"
-      },
-      {
-        "branch_name": "Pizza Mizza Həzi Aslanov / Xətai",
-        "address": "https://maps.app.goo.gl/MRfuFKNs7CzzfNom9",
-        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo4.jpg"
-      },
-      {
-        "branch_name": "Pizza Mizza Caspian",
-        "address": "https://maps.app.goo.gl/5Epf6MZwvBACwRjb7",
-        "image_link": "https://www.pizzamizza.az/az/wp-content/uploads/pizza-mizza-photo5.jpg"
-      }
-    ]
-  },
+        "address": "https://maps.app.goo.gl/5q4sX9kR6vqb3Nms7"
+ },
   "menu": [
     {
       "category": "Pizzalar / Pizzas",
@@ -392,25 +360,8 @@
   "id": 4,
   "name": "Sushi Room",
   "location": {
-    "city": "Bakı",
     "address": "91 Nizami St, Baku 1010, Azerbaijan",
-    "branches": [
-      {
-        "branch_name": "Sushi Room Nizami",
-        "address": "91 Nizami St, Baku 1010, Azerbaijan",
-        "image_link": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/0-CcE5sAjVx3u0JlSK/hero/4f8162b56e6543bc9d49b40ffbcad538_1618266382674856859.jpeg"
-      },
-      {
-        "branch_name": "Sushi Room Sahil",
-        "address": "Sahil, Bakı, Azerbaijan",
-        "image_link": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/0-CcE5sAjVx3u0JlSK/hero/4f8162b56e6543bc9d49b40ffbcad538_1618266382674856859.jpeg"
-      },
-      {
-        "branch_name": "Sushi Room Həzi Aslanov",
-        "address": "Həzi Aslanov, Bakı, Azerbaijan",
-        "image_link": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/0-CcE5sAjVx3u0JlSK/hero/4f8162b56e6543bc9d49b40ffbcad538_1618266382674856859.jpeg"
-      }
-    ]
+    "image_link": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/0-CcE5sAjVx3u0JlSK/hero/4f8162b56e6543bc9d49b40ffbcad538_1618266382674856859.jpeg"
   },
   "menu": [
     {
@@ -492,9 +443,9 @@
   ]
 },
 {
-  "id": 4,
+  "id": 5,
   "name": "Firuze Restaurant",
-  "restaurant_image_links": [
+  "image_link": [
     "https://wolt.com/en/aze/baku/restaurant/firuze-restaurant"
   ],
   "location": {
@@ -999,10 +950,1740 @@
       ]
     }
   ]
+},
+{
+  "id": 11,
+  "name": "Chinar Restaurant & Tea House",
+  "restaurant_image_links": [
+    "https://www.chinar-dining.az/wp-content/uploads/2025/01/chinar-exterior.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "Səbail rayonu, Şövkət Ələkbərova küçəsi 1"
+  },
+  "menu": [
+    {
+      "category": "Dim Sum / Dim Sumlar",
+      "items": [
+        { "dish": "Prawn Dumplings (Har Gau)", "price_AZN": 14 },
+        { "dish": "Chicken & Cashew Nut Dumplings", "price_AZN": 12 },
+        { "dish": "Vegetable Crystal Dumplings", "price_AZN": 10 },
+        { "dish": "Wagyu Beef Gyoza", "price_AZN": 22 }
+      ]
+    },
+    {
+      "category": "Sushi & Sashimi / Suşi və Saşimi",
+      "items": [
+        { "dish": "Chinar Special Roll", "price_AZN": 24 },
+        { "dish": "Spider Roll (Soft Shell Crab)", "price_AZN": 26 },
+        { "dish": "Spicy Bluefin Tuna Roll", "price_AZN": 22 },
+        { "dish": "Sashimi Platter (12 pcs)", "price_AZN": 65 },
+        { "dish": "Nigiri Selection", "price_AZN": 45 }
+      ]
+    },
+    {
+      "category": "Əsas Yeməklər / Main Courses",
+      "items": [
+        { "dish": "Miso Glazed Black Cod", "price_AZN": 55 },
+        { "dish": "Crispy Duck with Pancakes", "price_AZN": 48 },
+        { "dish": "Thai Green Chicken Curry", "price_AZN": 28 },
+        { "dish": "Beef Tenderloin in Black Pepper Sauce", "price_AZN": 42 }
+      ]
+    },
+    {
+      "category": "Salatlar / Salads",
+      "items": [
+        { "dish": "Crispy Duck Salad", "price_AZN": 24 },
+        { "dish": "Thai Beef Salad", "price_AZN": 22 },
+        { "dish": "Asian Green Salad", "price_AZN": 16 }
+      ]
+    },
+    {
+      "category": "Şorbalar / Soups",
+      "items": [
+        { "dish": "Classic Hot and Sour Soup", "price_AZN": 12 },
+        { "dish": "Tom Yum Goong", "price_AZN": 18 },
+        { "dish": "Sweet Corn & Chicken Soup", "price_AZN": 11 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Homemade Iced Tea 500ml", "price_AZN": 9 },
+        { "dish": "Fresh Orange Juice", "price_AZ": 12 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 6 },
+        { "dish": "Sirab Premium 750ml", "price_AZN": 8 },
+        { "dish": "Signature Mocktail", "price_AZN": 15 }
+      ]
+    }
+  ]
+},
+{
+  "id": 12,
+  "name": "Shirvanshah Museum Restaurant",
+  "restaurant_image_links": [
+    "https://www.shirvanshah.az/uploads/2025/shirvanshah-main.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "Salatın Əsgərova küçəsi 86"
+  },
+  "menu": [
+    {
+      "category": "Soyuq Qəlyanaltılar / Cold Starters",
+      "items": [
+        { "dish": "Paytaxt Salatı", "price_AZN": 9 },
+        { "dish": "Qatıq", "price_AZN": 4 },
+        { "dish": "Pendir Assorti", "price_AZN": 14 },
+        { "dish": "Süzmə", "price_AZN": 5 }
+      ]
+    },
+    {
+      "category": "İsti Yeməklər / Main Courses",
+      "items": [
+        { "dish": "Şah Plov (1 nəfərlik)", "price_AZN": 22 },
+        { "dish": "Yarpaq Xəngəli", "price_AZN": 11 },
+        { "dish": "Səbzi Qovurma", "price_AZN": 16 },
+        { "dish": "Gürzə", "price_AZN": 10 }
+      ]
+    },
+    {
+      "category": "Kabablar / Barbecue",
+      "items": [
+        { "dish": "Lülə Kabab", "price_AZN": 12 },
+        { "dish": "Tikə Kabab", "price_AZN": 13 },
+        { "dish": "Antrikot", "price_AZN": 15 },
+        { "dish": "Toyuq Kababı", "price_AZN": 10 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Düşeş / Tərxun (Şüşə)", "price_AZN": 5 },
+        { "dish": "Ev Sayağı Ayran", "price_AZN": 3 },
+        { "dish": "Sirab Premium 750ml", "price_AZN": 6 }
+      ]
+    }
+  ]
+},
+{
+  "id": 13,
+  "name": "Fryday Burger",
+  "restaurant_image_links": [
+    "https://fryday.az/img/menu/classic-burger-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "Səbail rayonu, İstiqlaliyyət küçəsi 47"
+  },
+  "menu": [
+    {
+      "category": "Burgerlər / Burgers",
+      "items": [
+        { "dish": "Classic Burger", "price_AZN": 11 },
+        { "dish": "Cheeseburger", "price_AZN": 13 },
+        { "dish": "Texas BBQ Burger", "price_AZN": 15 },
+        { "dish": "Mushroom Swiss Burger", "price_AZN": 14 }
+      ]
+    },
+    {
+      "category": "Kombo Menyu / Combo Deals",
+      "items": [
+        { "dish": "Fryday Combo (Burger+Fri+İçki)", "price_AZN": 18 },
+        { "dish": "Double Deal", "price_AZN": 24 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Sides",
+      "items": [
+        { "dish": "French Fries", "price_AZN": 5 },
+        { "dish": "Cheese Fries", "price_AZN": 7 },
+        { "dish": "Onion Rings (6 ədəd)", "price_AZN": 6 },
+        { "dish": "Chicken Wings (5 ədəd)", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 3 },
+        { "dish": "Milkshake (Chocolate/Vanilla)", "price_AZN": 8 },
+        { "dish": "Limonad 500ml", "price_AZN": 6 }
+      ]
+    }
+  ]
+},
+{
+  "id": 14,
+  "name": "Bella Pizza",
+  "restaurant_image_links": [
+    "https://bellapizza.az/assets/images/pepperoni-pizza.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "Nəsimi rayonu, Puşkin küçəsi 12"
+  },
+  "menu": [
+    {
+      "category": "Pizzalar / Pizzas",
+      "items": [
+        { "dish": "Margherita", "price_AZN": 14 },
+        { "dish": "Pepperoni", "price_AZN": 18 },
+        { "dish": "Quattro Formaggi (4 Pendir)", "price_AZN": 21 },
+        { "dish": "Mexicana (Acılı)", "price_AZN": 19 },
+        { "dish": "Chicken Barbecue Pizza", "price_AZN": 18 }
+      ]
+    },
+    {
+      "category": "Pastalar / Pastas",
+      "items": [
+        { "dish": "Fettuccine Alfredo", "price_AZN": 15 },
+        { "dish": "Spagetti Carbonara", "price_AZN": 16 },
+        { "dish": "Penne Arrabbiata", "price_AZN": 13 }
+      ]
+    },
+    {
+      "category": "Salatlar / Salads",
+      "items": [
+        { "dish": "Sezar Salatı Toyuq ilə", "price_AZN": 14 },
+        { "dish": "Yunan Salatı", "price_AZN": 11 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Bonaqua® 500ml", "price_AZN": 2 },
+        { "dish": "Fanta® 330ml", "price_AZN": 3 },
+        { "dish": "Ev Sayağı Nanəli Limonad", "price_AZN": 7 }
+      ]
+    }
+  ]
+},
+{
+  "id": 15,
+  "name": "Bir İki Dönər",
+  "restaurant_image_links": [
+    "https://biriki.az/wp-content/uploads/2025/doner-menu.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/uX3LhRk9GqA8fF7C8"
+  },
+  "menu": [
+    {
+      "category": "Dönərlər / Doners",
+      "items": [
+        { "dish": "Ət Dönəri Çörəkdə", "price_AZN": 6 },
+        { "dish": "Toyuq Dönəri Çörəkdə", "price_AZN": 5 },
+        { "dish": "Ət Dönəri Lavaşa", "price_AZN": 6.5 },
+        { "dish": "Toyuq Dönəri Lavaşa", "price_AZN": 5.5 },
+        { "dish": "Porsiyon Dönər Ət", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Sides",
+      "items": [
+        { "dish": "Kartof Fri", "price_AZN": 4 },
+        { "dish": "Mərci Şorbası", "price_AZN": 4.5 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Ayran (Açıq)", "price_AZN": 2 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 2.5 },
+        { "dish": "Fuse Tea® 330ml", "price_AZN": 2.5 }
+      ]
+    }
+  ]
+},
+{
+  "id": 16,
+  "name": "Paul's Steakhouse Baku",
+  "restaurant_image_links": [
+    "https://pauls-baku.com/images/steak-special-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/8v3M5nJ1y8k9QWzT6"
+  },
+  "menu": [
+    {
+      "category": "Steyklər / Steaks",
+      "items": [
+        { "dish": "Ribeye Steak (300g)", "price_AZN": 45 },
+        { "dish": "Fillet Mignon", "price_AZN": 48 },
+        { "dish": "T-Bone Steak (500g)", "price_AZN": 65 },
+        { "dish": "Sirloin Steak", "price_AZN": 42 }
+      ]
+    },
+    {
+      "category": "Burgerlər / Burgers",
+      "items": [
+        { "dish": "Paul's Special Steak Burger", "price_AZN": 18 },
+        { "dish": "Jalapeno Burger", "price_AZN": 16 }
+      ]
+    },
+    {
+      "category": "Qarnirlər / Sides",
+      "items": [
+        { "dish": "Grilled Vegetables", "price_AZN": 8 },
+        { "dish": "Mashed Potatoes", "price_AZN": 7 },
+        { "dish": "Steak Fries", "price_AZN": 6 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Sirab Premium 750ml", "price_AZN": 6 },
+        { "dish": "Fresh Lemonade", "price_AZN": 8 },
+        { "dish": "Red Bull® 250ml", "price_AZN": 7 }
+      ]
+    }
+  ]
+},
+{
+  "id": 17,
+  "name": "Mado Azerbaijan",
+  "restaurant_image_links": [
+    "https://mado.az/assets/img/breakfast-set-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/mPjK9L4w2Z7uR6yY8"
+  },
+  "menu": [
+    {
+      "category": "Səhər Yeməkləri / Breakfast",
+      "items": [
+        { "dish": "Mado Səhər Yeməyi Seti (2 nəfərlik)", "price_AZN": 38 },
+        { "dish": "Klassik Səhər Yeməyi Plitəsi", "price_AZN": 16 },
+        { "dish": "Sucuklu Yumurta", "price_AZN": 12 },
+        { "dish": "Simit Sarayı Seti", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "Şirniyyatlar / Desserts",
+      "items": [
+        { "dish": "Fıstıqlı Paxlava", "price_AZN": 11 },
+        { "dish": "Künefe", "price_AZN": 13 },
+        { "dish": "Mado Dondurma (3 top)", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Türk Çayı (Fincan)", "price_AZN": 3 },
+        { "dish": "Türk Qəhvəsi", "price_AZN": 6 },
+        { "dish": "Cappuccino", "price_AZN": 8 }
+      ]
+    }
+  ]
+},
+{
+  "id": 18,
+  "name": "Derya Fish Restaurant",
+  "restaurant_image_links": [
+    "https://deryafish.az/gallery/fresh-fish-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/4"
+  },
+  "menu": [
+    {
+      "category": "Balıqlar / Fish",
+      "items": [
+        { "dish": "Xəzər Qızılbalığı (Salmon)", "price_AZN": 28 },
+        { "dish": "Forel (Izqara/Tava)", "price_AZN": 16 },
+        { "dish": "Dorado (Közdə)", "price_AZN": 24 },
+        { "dish": "Kütüm (Ləvəngi ilə)", "price_AZN": 22 }
+      ]
+    },
+    {
+      "category": "Dəniz Məhsulları / Seafood",
+      "items": [
+        { "dish": "Krevet Tempura", "price_AZN": 19 },
+        { "dish": "Kalmar Halqaları", "price_AZN": 14 },
+        { "dish": "Midiya (Sarımsaq sousunda)", "price_AZN": 25 }
+      ]
+    },
+    {
+      "category": "Salatlar və Məzələr / Starters",
+      "items": [
+        { "dish": "Manqal Salatı", "price_AZN": 7 },
+        { "dish": "Təzə Tərəvəz Buketi", "price_AZN": 9 },
+        { "dish": "Humus", "price_AZN": 6 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Ev Sayağı Limonad 1L", "price_AZN": 12 },
+        { "dish": "Sirab Premium 750ml", "price_AZN": 5 },
+        { "dish": "Nar Şirəsi (Təbii)", "price_AZN": 10 }
+      ]
+    }
+  ]
+},
+{
+  "id": 19,
+  "name": "Beirut Lebanese Cuisine",
+  "restaurant_image_links": [
+    "https://beirutbaku.az/assets/images/lebanese-mix-grill.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/5"
+  },
+  "menu": [
+    {
+      "category": "Məzələr / Mezzes",
+      "items": [
+        { "dish": "Baba Qanuş", "price_AZN": 9 },
+        { "dish": "Tabbule Salatı", "price_AZN": 10 },
+        { "dish": "Fatuş Salatı", "price_AZN": 11 },
+        { "dish": "Falafel (6 ədəd)", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "Əsas Yeməklər / Main Courses",
+      "items": [
+        { "dish": "Mix Grill Beirut", "price_AZN": 35 },
+        { "dish": "Quzu Əti ilə Kapsa", "price_AZN": 26 },
+        { "dish": "Şiş Tavuk", "price_AZN": 18 }
+      ]
+    },
+    {
+      "category": "Şirniyyatlar / Desserts",
+      "items": [
+        { "dish": "Livan Paxlavası Assorti", "price_AZN": 14 },
+        { "dish": "Umm Ali", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Livan Qəhvəsi", "price_AZN": 7 },
+        { "dish": "Nanəli Limonad", "price_AZN": 8 },
+        { "dish": "Bonaqua® 500ml", "price_AZN": 3 }
+      ]
+    }
+  ]
+},
+{
+  "id": 20,
+  "name": "Yuka Kaiten Sushi",
+  "restaurant_image_links": [
+    "https://yukabaku.az/images/ramen-bowl-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/6"
+  },
+  "menu": [
+    {
+      "category": "Ramenlər / Ramen",
+      "items": [
+        { "dish": "Shoyu Ramen (Mal əti ilə)", "price_AZN": 18 },
+        { "dish": "Miso Ramen (Toyuq ilə)", "price_AZN": 17 },
+        { "dish": "Seafood Ramen", "price_AZN": 22 }
+      ]
+    },
+    {
+      "category": "Poke və Qablar / Poke Bowls",
+      "items": [
+        { "dish": "Salmon Poke Bowl", "price_AZN": 19 },
+        { "dish": "Tuna Poke Bowl", "price_AZN": 21 },
+        { "dish": "Vegetarian Poke", "price_AZN": 15 }
+      ]
+    },
+    {
+      "category": "Bao Buns / Bao Bulka",
+      "items": [
+        { "dish": "Crispy Chicken Bao", "price_AZN": 9 },
+        { "dish": "Beef Teriyaki Bao", "price_AZN": 11 },
+        { "dish": "Shrimp Bao", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Yapon Yaşıl Çayı (Matcha)", "price_AZN": 8 },
+        { "dish": "Aloe Vera Drink 500ml", "price_AZN": 6 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 4 }
+      ]
+    }
+  ]
+},
+{
+  "id": 21,
+  "name": "Hard Rock Cafe Baku",
+  "restaurant_image_links": [
+    "https://cafe.hardrock.com/baku/images/legendary-burger-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/7"
+  },
+  "menu": [
+    {
+      "category": "Burgerlər / Burgers",
+      "items": [
+        { "dish": "Original Legendary® Burger", "price_AZN": 24 },
+        { "dish": "The Big Cheeseburger", "price_AZN": 22 },
+        { "dish": "BBQ Bacon Cheeseburger", "price_AZN": 25 },
+        { "dish": "Moving Mountains® Burger (Vegan)", "price_AZN": 21 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Starters",
+      "items": [
+        { "dish": "One Night in Bangkok Spicy Shrimp™", "price_AZN": 19 },
+        { "dish": "Signature Slow-Roasted Wings", "price_AZN": 18 },
+        { "dish": "Tupelo Chicken Tenders", "price_AZN": 16 }
+      ]
+    },
+    {
+      "category": "İçkilər və Kokteyllər / Drinks",
+      "items": [
+        { "dish": "Hurricane (Signature Cocktail)", "price_AZN": 18 },
+        { "dish": "Classic Margarita", "price_AZN": 16 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 6 },
+        { "dish": "Local Craft Beer 500ml", "price_AZN": 9 }
+      ]
+    }
+  ]
+},
+{
+  "id": 22,
+  "name": "Mari Vanna Baku",
+  "restaurant_image_links": [
+    "https://marivanna.az/assets/img/traditional-borscht.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/8"
+  },
+  "menu": [
+    {
+      "category": "Şorbalar və İsti Qəlyanaltılar / Soups & Starters",
+      "items": [
+        { "dish": "Klassik Borş (Xama ilə)", "price_AZN": 14 },
+        { "dish": "Pirojki Assorti (3 ədəd)", "price_AZN": 9 },
+        { "dish": "Sibir Pelmenləri", "price_AZN": 15 },
+        { "dish": "Vareniki Kartof və Göbələk ilə", "price_AZN": 13 }
+      ]
+    },
+    {
+      "category": "Əsas Yeməklər / Main Courses",
+      "items": [
+        { "dish": "Beef Stroganoff (Püre ilə)", "price_AZN": 28 },
+        { "dish": "Kotlet Po-Kievski", "price_AZN": 22 },
+        { "dish": "Dana Əti Antrikotu", "price_AZN": 38 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Ev Sayağı Mors 1L", "price_AZN": 15 },
+        { "dish": "Kvas", "price_AZN": 7 },
+        { "dish": "Tərxun Limonadı", "price_AZN": 9 }
+      ]
+    }
+  ]
+},
+{
+  "id": 23,
+  "name": "Sky Grill Restaurant",
+  "restaurant_image_links": [
+    "https://www.hilton.com/sky-grill-baku-terrace.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/9"
+  },
+  "menu": [
+    {
+      "category": "Dəniz Məhsulları / Seafood Grill",
+      "items": [
+        { "dish": "Grilled Caspian Sturgeon (Nərə)", "price_AZN": 65 },
+        { "dish": "Pan-Seared Sea Bass", "price_AZN": 48 },
+        { "dish": "Sky Caesar (Krevet ilə)", "price_AZN": 38 }
+      ]
+    },
+    {
+      "category": "Kabablar / Azerbaijani Grill",
+      "items": [
+        { "dish": "Quzu Antrikot (350g)", "price_AZN": 60 },
+        { "dish": "Dana Bastırma", "price_AZN": 55 },
+        { "dish": "Şah Plov (Sky Style)", "price_AZN": 40 }
+      ]
+    },
+    {
+      "category": "Premium İçkilər / Drinks",
+      "items": [
+        { "dish": "Local Premium Wine (Glass)", "price_AZN": 19 },
+        { "dish": "Bottega Prosecco (Glass)", "price_AZN": 30 },
+        { "dish": "Sirab Premium 750ml", "price_AZN": 8 }
+      ]
+    }
+  ]
+},
+{
+  "id": 24,
+  "name": "PAUL Azerbaijan",
+  "restaurant_image_links": [
+    "https://paul.az/wp-content/uploads/2026/01/paul-bakery-baku.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/uX3LhRk9GqA8fF7C80"
+  },
+  "menu": [
+    {
+      "category": "Səhər Yeməyi / Breakfast",
+      "items": [
+        { "dish": "Klassik Kruassan", "price_AZN": 6 },
+        { "dish": "Sosisli Omlet və Salatı", "price_AZN": 22 },
+        { "dish": "Syrniki (Kəsmik Ponçikləri)", "price_AZN": 18 },
+        { "dish": "Fransız Tostu", "price_AZN": 15 }
+      ]
+    },
+    {
+      "category": "Pastalar / Pastas",
+      "items": [
+        { "dish": "Fettuccine Alfredo (Toyuq ilə)", "price_AZN": 30 },
+        { "dish": "Krevet və Salmonlu Pasta", "price_AZN": 34 },
+        { "dish": "Burrata Pesto Orzotto", "price_AZN": 33 }
+      ]
+    },
+    {
+      "category": "Şirniyyatlar / Desserts",
+      "items": [
+        { "dish": "Eclair Chocolate", "price_AZN": 7 },
+        { "dish": "Makaron (1 ədəd)", "price_AZN": 5 },
+        { "dish": "Tartelette Citron", "price_AZN": 11 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Cappuccino", "price_AZN": 8.5 },
+        { "dish": "Homemade Iced Tea", "price_AZN": 12 },
+        { "dish": "Təzə Sıxılmış Portağal Şirəsi", "price_AZN": 14 }
+      ]
+    }
+  ]
+},
+{
+  "id": 25,
+  "name": "Gürkan Şef Steakhouse Baku",
+  "restaurant_image_links": [
+    "https://gurkansef.az/assets/img/steak-art-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/uX3LhRk9GqA8fF7C81"
+  },
+  "menu": [
+    {
+      "category": "Steyklər / Steaks",
+      "items": [
+        { "dish": "Dana Lokum", "price_AZN": 55 },
+        { "dish": "Şaşlık", "price_AZN": 52 },
+        { "dish": "Kuzu Pirzola", "price_AZN": 48 },
+        { "dish": "Gürkan Burger", "price_AZN": 24 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Mezzes",
+      "items": [
+        { "dish": "Humus", "price_AZN": 11 },
+        { "dish": "Atom", "price_AZN": 12 },
+        { "dish": "Girit Ezme", "price_AZN": 14 }
+      ]
+    },
+    {
+      "category": "Şirniyyatlar / Desserts",
+      "items": [
+        { "dish": "Havuç Dilim Baklava (Dondurma ilə)", "price_AZN": 18 },
+        { "dish": "Tahinli Dondurma", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Ayran (Xüsusi Qabda)", "price_AZN": 6 },
+        { "dish": "Şalgam Suyu", "price_AZN": 7 },
+        { "dish": "Sirab Premium 750ml", "price_AZN": 8 }
+      ]
+    }
+  ]
+},
+{
+  "id": 26,
+  "name": "Entrée Azerbaijan",
+  "restaurant_image_links": [
+    "https://entree.az/images/sandwiches-selection.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "https://maps.app.goo.gl/uX3LhRk9GqA8fF7C82"
+  },
+  "menu": [
+    {
+      "category": "Sandviçlər / Sandwiches",
+      "items": [
+        { "dish": "Baguette Ham & Cheese", "price_AZN": 12 },
+        { "dish": "Salmon & Avocado Sandwich", "price_AZN": 16 },
+        { "dish": "Veggie Mozzarella Ciabatta", "price_AZN": 11 }
+      ]
+    },
+    {
+      "category": "Şorbalar və Salatlar / Soups & Salads",
+      "items": [
+        { "dish": "Günün Şorbası", "price_AZN": 7 },
+        { "dish": "Quinoa Stracciatella Salad", "price_AZN": 18 },
+        { "dish": "Toyuqlu Sezar Salatı", "price_AZN": 15 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Americano", "price_AZN": 7 },
+        { "dish": "Matcha Latte", "price_AZN": 10 },
+        { "dish": "Detox Juice (Green)", "price_AZN": 11 }
+      ]
+    }
+  ]
+},
+{
+  "id": 27,
+  "name": "Dolma Restaurant",
+  "restaurant_image_links": [
+    "https://dolma.az/assets/images/grape-leaf-dolma-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/dolma"
+  },
+  "menu": [
+    {
+      "category": "Dolmalar / Dolmas",
+      "items": [
+        { "dish": "Yarpaq Dolması", "price_AZN": 12 },
+        { "dish": "Üç Bacı Dolması (Badımcan, Bibər, Pomidor)", "price_AZN": 14 },
+        { "dish": "Kələm Dolması", "price_AZN": 11 }
+      ]
+    },
+    {
+      "category": "Sac Yeməkləri / Sac Dishes",
+      "items": [
+        { "dish": "Quzu Əti Sacı (2 nəfərlik)", "price_AZN": 35 },
+        { "dish": "Toyuq Sacı", "price_AZN": 28 },
+        { "dish": "Qarışıq Ət Sacı", "price_AZN": 42 }
+      ]
+    },
+    {
+      "category": "Plovlar / Pilafs",
+      "items": [
+        { "dish": "Şah Plov (Porsiya)", "price_AZN": 18 },
+        { "dish": "Turşu Qovurma Plov", "price_AZN": 16 },
+        { "dish": "Səbzi Qovurma Plov", "price_AZN": 15 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Ev Sayağı Ayran", "price_AZN": 3 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 4 },
+        { "dish": "Düşeş Limonadı", "price_AZN": 6 }
+      ]
+    }
+  ]
+},
+{
+  "id": 28,
+  "name": "Nakhchivan Restaurant",
+  "restaurant_image_links": [
+    "https://nakhchivan.az/img/ordubad-omelette-special.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/nakhchivan"
+  },
+  "menu": [
+    {
+      "category": "Naxçıvan Ləzzətləri / Nakhchivan Specialties",
+      "items": [
+        { "dish": "Ordubad Qayğanağı (Ballı)", "price_AZN": 15 },
+        { "dish": "Qovurma Şorbası", "price_AZN": 12 },
+        { "dish": "Naxçıvan Kətəsi (Göyərti/Ət)", "price_AZN": 5 },
+        { "dish": "Əriştə Şorbası", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "Kabablar / Kebabs",
+      "items": [
+        { "dish": "Naxçıvan Lülə Kababı", "price_AZN": 14 },
+        { "dish": "Quzu Antrikot", "price_AZN": 18 },
+        { "dish": "Kartof Külləmə", "price_AZN": 6 }
+      ]
+    },
+    {
+      "category": "Desertlər / Desserts",
+      "items": [
+        { "dish": "Badambura", "price_AZN": 4 },
+        { "dish": "Naxçıvan Paxlavası", "price_AZN": 5 },
+        { "dish": "Mürəbbə Çeşidləri", "price_AZN": 7 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Kəklikotu Çayı (Dəstgah)", "price_AZN": 15 },
+        { "dish": "Sirab Premium 750ml", "price_AZN": 6 },
+        { "dish": "Təbii Feyxoa Kompotu", "price_AZN": 8 }
+      ]
+    }
+  ]
+},
+{
+  "id": 29,
+  "name": "Mangal Steak House",
+  "restaurant_image_links": [
+    "https://mangalsteak.az/gallery/dry-aged-beef-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/mangal"
+  },
+  "menu": [
+    {
+      "category": "Steyklər / Steaks",
+      "items": [
+        { "dish": "Dallas Steak (450g)", "price_AZN": 58 },
+        { "dish": "T-Bone Steak", "price_AZN": 68 },
+        { "dish": "New York Strip", "price_AZN": 52 },
+        { "dish": "Lokum Steak", "price_AZN": 45 }
+      ]
+    },
+    {
+      "category": "Salatlar / Salads",
+      "items": [
+        { "dish": "Manqal Salatı", "price_AZN": 10 },
+        { "dish": "Gavurdağı Salatı", "price_AZN": 12 },
+        { "dish": "Steak Salad", "price_AZN": 22 }
+      ]
+    },
+    {
+      "category": "Şirniyyatlar / Desserts",
+      "items": [
+        { "dish": "Havuç Dilimi (Dondurma ilə)", "price_AZN": 16 },
+        { "dish": "Katmer", "price_AZN": 18 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Premium Yerli Şərab (Qədəh)", "price_AZN": 14 },
+        { "dish": "Bonaqua® Water 500ml", "price_AZN": 4 },
+        { "dish": "Təzə Sıxılmış Nar Şirəsi", "price_AZN": 12 }
+      ]
+    }
+  ]
+},
+{
+  "id": 30,
+  "name": "Pivnaya Apteka",
+  "restaurant_image_links": [
+    "https://pivnayaapteka.az/assets/img/huge-burger-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/pivnaya-apteka"
+  },
+  "menu": [
+    {
+      "category": "Nəhəng Burgerlər / Signature Burgers",
+      "items": [
+        { "dish": "1 kq Burger (Paylaşmaq üçün)", "price_AZN": 52 },
+        { "dish": "Georgian BiJo Burger", "price_AZN": 16 },
+        { "dish": "Mexican Chili Burger", "price_AZN": 18 },
+        { "dish": "Mushroom Swiss Burger", "price_AZN": 17 }
+      ]
+    },
+    {
+      "category": "Hotdoqlar / Hot Dogs",
+      "items": [
+        { "dish": "German Hotdog", "price_AZN": 12 },
+        { "dish": "Chicago Hotdog", "price_AZN": 14 },
+        { "dish": "BBQ Hotdog", "price_AZN": 10 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Draft Beer 500ml", "price_AZN": 9 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 5 },
+        { "dish": "Fresh Orange Juice", "price_AZN": 9 }
+      ]
+    }
+  ]
+},
+{
+  "id": 31,
+  "name": "Vapiano Baku",
+  "restaurant_image_links": [
+    "https://vapiano.az/menu/fresh-pasta-selection.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/vapiano"
+  },
+  "menu": [
+    {
+      "category": "Təzə Pastalar / Fresh Pasta",
+      "items": [
+        { "dish": "Pasta Carbonara", "price_AZN": 18 },
+        { "dish": "Chicken Alfredo", "price_AZN": 19 },
+        { "dish": "Gamberetti e Spinaci (Krevet ilə)", "price_AZN": 22 },
+        { "dish": "Pasta Bolognese", "price_AZN": 18 }
+      ]
+    },
+    {
+      "category": "Pizzalar / Pizzas",
+      "items": [
+        { "dish": "Pizza Margherita", "price_AZN": 17 },
+        { "dish": "Pizza Diavolo (Acılı)", "price_AZN": 20 },
+        { "dish": "Pizza Tonno (Tuna ilə)", "price_AZN": 19 },
+        { "dish": "Pizza BBQ Chicken", "price_AZN": 19 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Homemade Lemonade 500ml", "price_AZN": 9 },
+        { "dish": "Espresso", "price_AZN": 5 },
+        { "dish": "Sirab Still/Sparkling 330ml", "price_AZN": 4 }
+      ]
+    }
+  ]
+},
+{
+  "id": 32,
+  "name": "Coffee Moffie",
+  "restaurant_image_links": [
+    "https://coffeemoffie.com/images/specialty-coffee.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/coffee-moffie"
+  },
+  "menu": [
+    {
+      "category": "Kofe və Sağlam İçkilər / Coffee & Health Drinks",
+      "items": [
+        { "dish": "Cold Brew", "price_AZN": 8 },
+        { "dish": "Spanish Latte", "price_AZN": 9 },
+        { "dish": "Zəncuzi (Zəncəfil, Xurma, Portağal)", "price_AZN": 8 },
+        { "dish": "Flat White", "price_AZN": 8 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Snacks",
+      "items": [
+        { "dish": "Tuna İlə Sendviç", "price_AZN": 10 },
+        { "dish": "Toyuqlu Sendviç", "price_AZN": 8 },
+        { "dish": "Pendirli Sendviç", "price_AZN": 7 }
+      ]
+    },
+    {
+      "category": "Desertlər / Desserts",
+      "items": [
+        { "dish": "San Sebastian Cheesecake", "price_AZN": 9 },
+        { "dish": "Lotus Cheesecake", "price_AZN": 10 },
+        { "dish": "Kruasan Şokoladlı", "price_AZN": 6 }
+      ]
+    }
+  ]
+},
+{
+  "id": 33,
+  "name": "Mugham Club",
+  "restaurant_image_links": [
+    "https://monyo.az/uploads/restaurants/mugam_club_main.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/mugam-club"
+  },
+  "menu": [
+    {
+      "category": "Milli Xörəklər / National Dishes",
+      "items": [
+        { "dish": "Yarpaq Dolması", "price_AZN": 15 },
+        { "dish": "Pip Dolması", "price_AZN": 16 },
+        { "dish": "Qızardılmış Gürzə", "price_AZN": 18 },
+        { "dish": "Səbzi Qovurma Plov", "price_AZN": 20 }
+      ]
+    },
+    {
+      "category": "Təndir Yeməkləri / Tandoor Special",
+      "items": [
+        { "dish": "Təndirdə Cücə", "price_AZN": 24 },
+        { "dish": "Quzu Qolu (800qr)", "price_AZN": 65 },
+        { "dish": "Təndir Çörəyi", "price_AZN": 3 }
+      ]
+    },
+    {
+      "category": "İçkilər və Desert / Tea & Sweets",
+      "items": [
+        { "dish": "Çay Dəstgahı (Mürəbbə və Şirniyyat ilə)", "price_AZN": 35 },
+        { "dish": "Darçınlı Quymaq", "price_AZN": 14 },
+        { "dish": "Paxlava (1 ədəd)", "price_AZN": 4 }
+      ]
+    }
+  ]
+},
+{
+  "id": 34,
+  "name": "Old Garden Restaurant",
+  "restaurant_image_links": [
+    "https://monyo.az/uploads/restaurants/old_garden_baku.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/old-garden"
+  },
+  "menu": [
+    {
+      "category": "Səhər Yeməyi / Breakfast Sets",
+      "items": [
+        { "dish": "Səhər Yeməyi Seti (2 nəfərlik)", "price_AZN": 35 },
+        { "dish": "Pomidor Yumurta", "price_AZN": 8 },
+        { "dish": "Kükü (Göyərti ilə)", "price_AZN": 7 },
+        { "dish": "Bal və Qaymaq", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Starters",
+      "items": [
+        { "dish": "Ət Qutabı (1 ədəd)", "price_AZN": 2.5 },
+        { "dish": "Göy Qutabı", "price_AZN": 2 },
+        { "dish": "Pendir Assorti", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Qara Çay (Çaynik)", "price_AZN": 12 },
+        { "dish": "Türk Qəhvəsi", "price_AZN": 7 },
+        { "dish": "Təzə Sıxılmış Portağal Şirəsi", "price_AZN": 10 }
+      ]
+    }
+  ]
+},
+{
+  "id": 35,
+  "name": "Baku Cafe",
+  "restaurant_image_links": [
+    "https://beat.az/uploads/restaurants/baku_cafe_interior.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/baku-cafe"
+  },
+  "menu": [
+    {
+      "category": "Modern Milli / Modern Local",
+      "items": [
+        { "dish": "Can Əti Humus İlə", "price_AZN": 18 },
+        { "dish": "Düşbərə (Baku Cafe Style)", "price_AZN": 10 },
+        { "dish": "Bakı Salatı (Xüsusi Sos ilə)", "price_AZN": 14 }
+      ]
+    },
+    {
+      "category": "Avropa Mətbəxi / European Dishes",
+      "items": [
+        { "dish": "Spagetti Karbonara", "price_AZN": 25 },
+        { "dish": "Çizburger (Angus əti ilə)", "price_AZN": 28 },
+        { "dish": "Qızılbalıq Steyki (Salmon)", "price_AZN": 38 }
+      ]
+    },
+    {
+      "category": "Şirniyyatlar / Desserts",
+      "items": [
+        { "dish": "San Sebastian Cheesecake", "price_AZN": 14 },
+        { "dish": "Syrniki (Meyvə ilə)", "price_AZN": 16 },
+        { "dish": "Mövsüm Meyvələri", "price_AZN": 18 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Raf Coffee", "price_AZN": 10 },
+        { "dish": "Signature Mocktail", "price_AZN": 15 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 6 }
+      ]
+    }
+  ]
+},
+{
+  "id": 36,
+  "name": "Günaydın Steakhouse Baku",
+  "restaurant_image_links": [
+    "https://gunaydin.az/assets/img/special-lokum-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/gunaydin-baku"
+  },
+  "menu": [
+    {
+      "category": "Kebablar / Kebabs",
+      "items": [
+        { "dish": "Adana Kababı", "price_AZN": 34 },
+        { "dish": "Antep Fıstıqlı Kabab", "price_AZN": 36 },
+        { "dish": "Quzu Şiş", "price_AZN": 39 },
+        { "dish": "Lahmacun", "price_AZN": 10 }
+      ]
+    },
+    {
+      "category": "Steyklər və Ətlər / Steaks & Meats",
+      "items": [
+        { "dish": "Günaydın Özel Lokum (250 qr)", "price_AZN": 50 },
+        { "dish": "Prime Dallas Steak (350 qr)", "price_AZN": 92 },
+        { "dish": "Prime New York Steak", "price_AZN": 92 },
+        { "dish": "Kuzu Kafes (Quzu Qəfəsi)", "price_AZN": 90 }
+      ]
+    },
+    {
+      "category": "Salatlar və Desertlər / Salads & Desserts",
+      "items": [
+        { "dish": "Gavurdağı Salatı", "price_AZN": 19 },
+        { "dish": "Antep Katmer (Dondurma ilə)", "price_AZN": 32 },
+        { "dish": "Havuç Dilimi Baklava", "price_AZN": 18 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Xüsusi Ayran", "price_AZN": 6 },
+        { "dish": "Şalgam Suyu", "price_AZN": 6 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 6 }
+      ]
+    }
+  ]
+},
+{
+  "id": 37,
+  "name": "Sumakh Restaurant",
+  "restaurant_image_links": [
+    "https://beat.az/uploads/restaurants/sumakh_main_2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/sumakh"
+  },
+  "menu": [
+    {
+      "category": "Milli Xəmir Xörəkləri / Traditional Flour Dishes",
+      "items": [
+        { "dish": "Gürzə (Quzu əti ilə)", "price_AZN": 13 },
+        { "dish": "Yarpaq Xəngəli", "price_AZN": 16 },
+        { "dish": "Qutab (Ət/Göy/Pendir/Balqabaq)", "price_AZN": 4 }
+      ]
+    },
+    {
+      "category": "Kabablar və Sac / Grill & Sac",
+      "items": [
+        { "dish": "Sac Quzu Əti İlə", "price_AZN": 37 },
+        { "dish": "Bakısayağı Rollar (Dana ətində quzu quyruğu)", "price_AZN": 30 },
+        { "dish": "Nərə Balığı Kababı", "price_AZN": 100 },
+        { "dish": "Dana Basdırma", "price_AZN": 30 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Ev Sayağı Kompot 1L", "price_AZN": 13 },
+        { "dish": "Sirab 500ml", "price_AZN": 6 },
+        { "dish": "Təzə Sıxılmış Nar Şirəsi", "price_AZN": 12 }
+      ]
+    }
+  ]
+},
+{
+  "id": 38,
+  "name": "Nusr-Et Steakhouse Baku",
+  "restaurant_image_links": [
+    "https://nusr-et.com.tr/assets/img/baku-interior-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/nusret-baku"
+  },
+  "menu": [
+    {
+      "category": "Nusr-Et Spesial / Signatures",
+      "items": [
+        { "dish": "Nusr-Et Burger", "price_AZN": 35 },
+        { "dish": "Beef Sushi (3 ədəd)", "price_AZN": 45 },
+        { "dish": "Golden Sushi (24K Qızıl ilə)", "price_AZN": 120 }
+      ]
+    },
+    {
+      "category": "Əsas Steyklər / Main Steaks",
+      "items": [
+        { "dish": "Tomahawk Steak (600 qr)", "price_AZN": 180 },
+        { "dish": "Nusr-Et Special (Kərə yağında)", "price_AZN": 110 },
+        { "dish": "Dallas Steak", "price_AZN": 130 },
+        { "dish": "Lokum (Dana Bonfile)", "price_AZN": 95 }
+      ]
+    },
+    {
+      "category": "Şirniyyatlar / Desserts",
+      "items": [
+        { "dish": "Dondurmalı Baklava", "price_AZN": 22 },
+        { "dish": "Qızıl Baklava", "price_AZN": 110 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 10 },
+        { "dish": "Acqua Panna 750ml", "price_AZN": 14 },
+        { "dish": "Signature Cocktail", "price_AZN": 25 }
+      ]
+    }
+  ]
+},
+{
+  "id": 39,
+  "name": "SAHiL Bar & Restaurant",
+  "restaurant_image_links": [
+    "https://beat.az/uploads/restaurants/sahil_baku_2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/sahil-baku"
+  },
+  "menu": [
+    {
+      "category": "Səhər Yeməyi / Breakfast",
+      "items": [
+        { "dish": "Səhər Yeməyi Seti (Zəngin)", "price_AZN": 30 },
+        { "dish": "Pomidor Yumurta Çığırtması", "price_AZN": 10 },
+        { "dish": "Sırnık (Kəsmik Ponçiki)", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "Kabablar / Grills",
+      "items": [
+        { "dish": "Quzu Lüləsi (Lavaşda/Çörəkdə)", "price_AZN": 11 },
+        { "dish": "Toyuq Lüləsi (Lavaşda/Çörəkdə)", "price_AZN": 10 },
+        { "dish": "Dana Basdırma", "price_AZN": 22 },
+        { "dish": "Nərə Balığı Kababı", "price_AZN": 55 }
+      ]
+    },
+    {
+      "category": "Qəlyanaltılar / Starters",
+      "items": [
+        { "dish": "Mastxiyar (Qozlu)", "price_AZN": 10 },
+        { "dish": "Hisə Verilmiş Balıq Assortisi", "price_AZN": 35 },
+        { "dish": "Qara Kürü (30qr)", "price_AZN": 150 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Sirab Premium 750ml", "price_AZN": 8 },
+        { "dish": "Yerli Şərablar (Qədəh)", "price_AZN": 12 },
+        { "dish": "Təzə Sıxılmış Nar Şirəsi", "price_AZN": 10 }
+      ]
+    }
+  ]
+},
+{
+  "id": 40,
+  "name": "Passage 1901",
+  "restaurant_image_links": [
+    "https://passage1901.az/images/interior-view.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/passage1901"
+  },
+  "menu": [
+    {
+      "category": "Plovlar / Pilafs",
+      "items": [
+        { "dish": "Şah Plov (Böyük)", "price_AZN": 40 },
+        { "dish": "Fisincan Plov", "price_AZN": 15 },
+        { "dish": "Özbək Plovu", "price_AZN": 8 }
+      ]
+    },
+    {
+      "category": "Dünya Mətbəxi / Global Selection",
+      "items": [
+        { "dish": "Beef Stroganoff", "price_AZN": 10 },
+        { "dish": "Chicken Strogonof", "price_AZN": 9 },
+        { "dish": "Kiyev Kotleti", "price_AZN": 8 },
+        { "dish": "Fajitos (Dana əti ilə)", "price_AZN": 10 }
+      ]
+    },
+    {
+      "category": "Şorbalar / Soups",
+      "items": [
+        { "dish": "Xaş (Dəstgah)", "price_AZN": 17 },
+        { "dish": "Düşbərə", "price_AZN": 5 },
+        { "dish": "Piti", "price_AZN": 8 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Ev Sayağı Limonad 1L", "price_AZN": 10 },
+        { "dish": "Türk Qəhvəsi", "price_AZN": 6 },
+        { "dish": "Çay Dəstgahı", "price_AZN": 20 }
+      ]
+    }
+  ]
+},
+{
+  "id": 41,
+  "name": "M'EAT Steak House",
+  "restaurant_image_links": [
+    "https://meat.az/assets/img/prime-steak-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/meat-baku"
+  },
+  "menu": [
+    {
+      "category": "Premium Steyklər / Prime Steaks",
+      "items": [
+        { "dish": "Rib-eye (300 qr)", "price_AZN": 106 },
+        { "dish": "New York Sirloin", "price_AZN": 80 },
+        { "dish": "T-bone (450 qr)", "price_AZN": 118 },
+        { "dish": "Dallas Bone-in", "price_AZN": 143 }
+      ]
+    },
+    {
+      "category": "Burgerlər / Burgers",
+      "items": [
+        { "dish": "Steak Burger", "price_AZN": 19.50 },
+        { "dish": "Texas Burger (Bacon ilə)", "price_AZN": 17.50 },
+        { "dish": "Mushroom Burger", "price_AZN": 17.00 },
+        { "dish": "Vegetarian Burger (Falafel ilə)", "price_AZN": 13.50 }
+      ]
+    },
+    {
+      "category": "Qarnirlər / Sides",
+      "items": [
+        { "dish": "Kartof Fri", "price_AZN": 6.50 },
+        { "dish": "Grilled Vegetables", "price_AZN": 6.50 },
+        { "dish": "Mashed Potatoes", "price_AZN": 6.50 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Premium Wine Selection (Bottle)", "price_AZN": 60 },
+        { "dish": "San Pellegrino 750ml", "price_AZN": 12 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 5 }
+      ]
+    }
+  ]
+},
+{
+  "id": 42,
+  "name": "Shirvanshah Museum Restaurant",
+  "restaurant_image_links": [
+    "https://shirvanshah.az/gallery/museum-dining-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/shirvanshah"
+  },
+  "menu": [
+    {
+      "category": "İmza Yeməkləri / Signature Dishes",
+      "items": [
+        { "dish": "Şirvanşah Plovu", "price_AZN": 22 },
+        { "dish": "Döşəmə Plov (Toyuq ilə)", "price_AZN": 18 },
+        { "dish": "Səbzi Qovurma", "price_AZN": 16 }
+      ]
+    },
+    {
+      "category": "Kabablar / Grills",
+      "items": [
+        { "dish": "Xan Kababı", "price_AZN": 15 },
+        { "dish": "Quzu Antrikot", "price_AZN": 14 },
+        { "dish": "Tərəvəz Kababı Assorti", "price_AZN": 8 }
+      ]
+    },
+    {
+      "category": "Şorbalar / Soups",
+      "items": [
+        { "dish": "Əriştə", "price_AZN": 7 },
+        { "dish": "Düşbərə (Milli üsulda)", "price_AZN": 8 },
+        { "dish": "Piti (Saxsı qabda)", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Şərbət (Müxtəlif çeşidli)", "price_AZN": 5 },
+        { "dish": "Kəklikotu Çayı (Dəstgah)", "price_AZN": 25 },
+        { "dish": "Sirab Premium 750ml", "price_AZN": 6 }
+      ]
+    }
+  ]
+},
+{
+  "id": 43,
+  "name": "Qaynana Restaurant",
+  "restaurant_image_links": [
+    "https://monyo.az/uploads/restaurants/qaynana_baku_2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/qaynana"
+  },
+  "menu": [
+    {
+      "category": "Səhər Yeməyi / Breakfast",
+      "items": [
+        { "dish": "Klassik Pomidor Yumurta", "price_AZN": 9 },
+        { "dish": "Bal və Qaymaq", "price_AZN": 11 },
+        { "dish": "Qayğanaq (Kənd yumurtası ilə)", "price_AZN": 7 }
+      ]
+    },
+    {
+      "category": "Xəmir Yeməkləri / Flour Dishes",
+      "items": [
+        { "dish": "Qutab (Ət/Göy/Pendir)", "price_AZN": 3 },
+        { "dish": "Gürzə (Qızardılmış/Sulu)", "price_AZN": 10 },
+        { "dish": "Xəngəl (Yarpaq)", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "Əsas Yeməklər / Main Dishes",
+      "items": [
+        { "dish": "Tabaka (Çolpa qızartması)", "price_AZN": 18 },
+        { "dish": "Çığırtma (Toyuq əti ilə)", "price_AZN": 14 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Armudu Çay", "price_AZN": 3 },
+        { "dish": "Ev Sayağı Ayran", "price_AZN": 4 },
+        { "dish": "Kompot 1L", "price_AZN": 10 }
+      ]
+    }
+  ]
+},
+{
+  "id": 44,
+  "name": "Merci Baku",
+  "restaurant_image_links": [
+    "https://mercibaku.az/assets/img/bistro-vibe.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/merci-baku"
+  },
+  "menu": [
+    {
+      "category": "Bistro Seçimləri / Bistro Selection",
+      "items": [
+        { "dish": "Fransız Sayağı Soğan Şorbası", "price_AZN": 12 },
+        { "dish": "Croque Monsieur (Sendviç)", "price_AZN": 14 },
+        { "dish": "Niçuaz Salatı (Tuna ilə)", "price_AZN": 18 }
+      ]
+    },
+    {
+      "category": "Əsas Yeməklər / Main Courses",
+      "items": [
+        { "dish": "Confit de Canard (Ördək budu)", "price_AZN": 32 },
+        { "dish": "Steak Frites (Bernaise sousu ilə)", "price_AZN": 45 },
+        { "dish": "Salmon Fillet (Tərəvəzlərlə)", "price_AZN": 36 }
+      ]
+    },
+    {
+      "category": "Desertlər / Desserts",
+      "items": [
+        { "dish": "Crème Brûlée", "price_AZN": 12 },
+        { "dish": "Profiterol", "price_AZN": 11 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Café au Lait", "price_AZN": 8 },
+        { "dish": "Şampan (Qədəh)", "price_AZN": 20 },
+        { "dish": "Sirab 330ml", "price_AZN": 5 }
+      ]
+    }
+  ]
+},
+{
+  "id": 45,
+  "name": "Manqalüstü",
+  "restaurant_image_links": [
+    "https://monyo.az/uploads/restaurants/manqalustu_khinkali_2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/manqalustu"
+  },
+  "menu": [
+    {
+      "category": "Gürcü Xəngəlləri / Khinkali",
+      "items": [
+        { "dish": "Gürcü Xəngəli (Ət/Dana)", "price_AZN": 1.2 },
+        { "dish": "Gürcü Xəngəli (Quzu)", "price_AZN": 1.4 },
+        { "dish": "Qızardılmış Xəngəl (1 ədəd)", "price_AZN": 1.5 }
+      ]
+    },
+    {
+      "category": "Xəmir Xörəkləri / Flour Dishes",
+      "items": [
+        { "dish": "Xaçapuri (Acaruli)", "price_AZN": 13 },
+        { "dish": "Xaçapuri (İmeruli)", "price_AZN": 11 },
+        { "dish": "Meqruli Xaçapuri", "price_AZN": 14 }
+      ]
+    },
+    {
+      "category": "Kabablar / Grills",
+      "items": [
+        { "dish": "Gürcü Sayağı Lülə", "price_AZN": 11 },
+        { "dish": "Dana Basdırma", "price_AZN": 16 },
+        { "dish": "Kartof Lüləsi", "price_AZN": 5 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Gürcü Limonadı (Nataxtari)", "price_AZN": 5 },
+        { "dish": "Ev Sayağı Ayran", "price_AZN": 3 },
+        { "dish": "Coca‑Cola® 330ml", "price_AZN": 3 }
+      ]
+    }
+  ]
+},
+{
+  "id": 46,
+  "name": "Buddha-Bar Baku",
+  "restaurant_image_links": [
+    "https://buddhabar.az/assets/img/buddha-interior-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/buddhabar-baku"
+  },
+  "menu": [
+    {
+      "category": "İmza Suşilər / Signature Sushi",
+      "items": [
+        { "dish": "Buddha-Bar Roll", "price_AZN": 28 },
+        { "dish": "Spicy Tuna Tartare Roll", "price_AZN": 24 },
+        { "dish": "Black Truffle New Style Sashimi", "price_AZN": 42 }
+      ]
+    },
+    {
+      "category": "Asiya İsti Yeməkləri / Pan-Asian Mains",
+      "items": [
+        { "dish": "Wok-Fried Beef with Basil", "price_AZN": 38 },
+        { "dish": "Peking Duck (Half)", "price_AZN": 65 },
+        { "dish": "Grilled Salmon with Teriyaki Sauce", "price_AZN": 45 }
+      ]
+    },
+    {
+      "category": "Kokteyllər və İçkilər / Drinks",
+      "items": [
+        { "dish": "Signature Buddha-Bar Cocktail", "price_AZN": 22 },
+        { "dish": "Asahi Japanese Beer", "price_AZN": 15 },
+        { "dish": "Sirab Premium 750ml", "price_AZN": 9 }
+      ]
+    }
+  ]
+},
+{
+  "id": 47,
+  "name": "Highland Park Cafe",
+  "restaurant_image_links": [
+    "https://bakutravel.az/images/highland-park-view-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/highland-park"
+  },
+  "menu": [
+    {
+      "category": "Yüngül Yeməklər / Light Bites",
+      "items": [
+        { "dish": "Sezar Salatı (Toyuq ilə)", "price_AZN": 16 },
+        { "dish": "Klub Sendviç", "price_AZN": 14 },
+        { "dish": "Pendir Assorti (Şərab üçün)", "price_AZN": 25 }
+      ]
+    },
+    {
+      "category": "Desertlər / Desserts",
+      "items": [
+        { "dish": "Bakı Paxlavası", "price_AZN": 5 },
+        { "dish": "Tiramisu", "price_AZN": 12 },
+        { "dish": "Dondurma Assorti (3 top)", "price_AZN": 9 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Çay Dəstgahı (Mənzərə ilə)", "price_AZN": 35 },
+        { "dish": "Cappuccino", "price_AZN": 9 },
+        { "dish": "Ev Sayağı Limonad", "price_AZN": 10 }
+      ]
+    }
+  ]
+},
+{
+  "id": 48,
+  "name": "Central Baku",
+  "restaurant_image_links": [
+    "https://centralbaku.monyo.az/assets/img/shakh-plov-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/central-baku"
+  },
+  "menu": [
+    {
+      "category": "Milli Yeməklər / National Dishes",
+      "items": [
+        { "dish": "Şah Plov (1 nəfərlik)", "price_AZN": 27 },
+        { "dish": "Bakı Dolması", "price_AZN": 23 },
+        { "dish": "Gürzə (Dana əti ilə)", "price_AZN": 23 },
+        { "dish": "Xırçıldayan Düşbərə", "price_AZN": 14 }
+      ]
+    },
+    {
+      "category": "Pizza və Pasta / Pizza & Pasta",
+      "items": [
+        { "dish": "4 Pendir Pizza", "price_AZN": 26 },
+        { "dish": "Fettuccine Alfredo", "price_AZN": 22 },
+        { "dish": "Pizza Margherita", "price_AZN": 18 }
+      ]
+    },
+    {
+      "category": "Şorbalar / Soups",
+      "items": [
+        { "dish": "Düşbərə (Sulu)", "price_AZN": 9 },
+        { "dish": "Göyərti Şorbası", "price_AZN": 8 },
+        { "dish": "Pendir Şorbası", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Təzə Sıxılmış Portağal Şirəsi", "price_AZN": 10 },
+        { "dish": "Americano", "price_AZN": 8 },
+        { "dish": "Sirab 330ml", "price_AZN": 4 }
+      ]
+    }
+  ]
+},
+{
+  "id": 49,
+  "name": "Paris Bistro Baku",
+  "restaurant_image_links": [
+    "https://paris-bistro.az/assets/img/steak-frites-2026.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/paris-bistro"
+  },
+  "menu": [
+    {
+      "category": "Fransız Klassikləri / French Classics",
+      "items": [
+        { "dish": "Karamelizə Olunmuş Soğan Şorbası", "price_AZN": 11 },
+        { "dish": "Beef Bourguignon (Kartof püresi ilə)", "price_AZN": 20 },
+        { "dish": "Café de Paris Souslu Mal Filesi", "price_AZN": 38 },
+        { "dish": "Ratatuy (Burrata pendiri ilə)", "price_AZN": 23 }
+      ]
+    },
+    {
+      "category": "Səhər Yeməyi / Breakfast",
+      "items": [
+        { "dish": "Sırniki (Kəsmik Ponçiki)", "price_AZN": 15 },
+        { "dish": "Hisəverilmiş Qızılbalıq ilə Qalet", "price_AZN": 21 },
+        { "dish": "Sadə Kruassan", "price_AZN": 7 }
+      ]
+    },
+    {
+      "category": "Desertlər / Desserts",
+      "items": [
+        { "dish": "San Sebastian Cheesecake", "price_AZN": 14 },
+        { "dish": "Makaron (1 ədəd)", "price_AZN": 4.5 },
+        { "dish": "Belçika Vaflisi", "price_AZN": 16 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Espresso", "price_AZN": 6 },
+        { "dish": "Homemade Lemonade", "price_AZN": 10 },
+        { "dish": "Local Wine (Glass)", "price_AZN": 12 }
+      ]
+    }
+  ]
+},
+{
+  "id": 50,
+  "name": "Chayki Restaurant",
+  "restaurant_image_links": [
+    "https://beat.az/uploads/restaurants/chayki_baku_view.jpg"
+  ],
+  "location": {
+    "city": "Bakı",
+    "address": "http://googleusercontent.com/maps.google.com/chayki-baku"
+  },
+  "menu": [
+    {
+      "category": "Çay Dəstgahları / Tea Sets",
+      "items": [
+        { "dish": "Klassik Çay Dəstgahı (Mürəbbə ilə)", "price_AZN": 35 },
+        { "dish": "Premium Çay Dəstgahı (Şirniyyat assorti ilə)", "price_AZN": 50 }
+      ]
+    },
+    {
+      "category": "Milli Desertlər / Local Desserts",
+      "items": [
+        { "dish": "Badambura", "price_AZN": 5 },
+        { "dish": "Şəkərbura", "price_AZN": 6 },
+        { "dish": "Quymaq", "price_AZN": 12 }
+      ]
+    },
+    {
+      "category": "Əsas Yeməklər / Main Courses",
+      "items": [
+        { "dish": "Toyuq Ləvəngisi", "price_AZN": 24 },
+        { "dish": "Balıq Ləvəngisi (Kütüm)", "price_AZN": 45 },
+        { "dish": "Yarpaq Xəngəli", "price_AZN": 16 }
+      ]
+    },
+    {
+      "category": "İçkilər / Drinks",
+      "items": [
+        { "dish": "Tərxun Limonadı 1L", "price_AZN": 14 },
+        { "dish": "Təzə Sıxılmış Nar Şirəsi", "price_AZN": 12 },
+        { "dish": "Vittel 750ml", "price_AZN": 10 }
+      ]
+    }
+  ]
 }
-
-
-
-
-
 ]
