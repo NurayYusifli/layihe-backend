@@ -2,9 +2,8 @@
   {
   "id": 1,
   "name": "Manzara Restaurant",
-  "image_link": [
-    "https://www.google.com/maps/place/Manzara+Restaurant/@40.3567757,49.8304656,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipODegcayPvOnRLkjH98VeZ5aKsWVDfD8DyUTJsX!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipODegcayPvOnRLkjH98VeZ5aKsWVDfD8DyUTJsX%3Dw86-h107-k-no!7i2400!8i3000!4m7!3m6!1s0x40307d09eb6f1971:0x6b85eebdec8b56da!8m2!3d40.3567453!4d49.8303247!10e5!16s%2Fg%2F11sx4pbrbb?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D#"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000"]
+  ,
   "location": {
     "address": "https://maps.app.goo.gl/gGwpg89WUh4qSSun8"
   },
@@ -196,9 +195,8 @@
   {
   "id": 2,
   "name": "Burger Baku",
-  "image_link": [
-    "https://www.google.com/maps/place/Burger+Baku/@40.3719902,49.8379438,3a,75y,90t/data=!3m8!1e2!3m6!1sCIABIhADyddmIja2G2es-VAADaer!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAG0ilSykVcUMKKYc1vH1cYW3oDR28gLimMFKoN1XkLnaoS5t9OtryTvxo7w59_e6Gzu3bHimFNOJPQh_8lUZnWbft2hpNph42FxDB1BK2qRemElC3zmEqgq3pyP_B5x16S4rPVzj_aRu9YcNRkI%3Dw203-h162-k-no!7i3780!8i3024!4m11!1m2!2m1!1sburger+baku!3m7!1s0x40307d002fa0455d:0x4a83a4b61eb3fe11!8m2!3d40.3720124!4d49.8380214!10e5!15sCgtidXJnZXIgYmFrdVoNIgtidXJnZXIgYmFrdZIBE2FtZXJpY2FuX3Jlc3RhdXJhbnSaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjVvTVZGck1ERmFWVFZMVTFac1FtTnFiRk5rUld0NVRXdDRlRnBXUlJBQuABAPoBBAg1EC4!16s%2Fg%2F11lyvk8zls?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D#"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=1000"]
+  ,
   "location": {
     "address": "https://maps.app.goo.gl/ED8sRKq2rFe7q61p9"
   },
@@ -288,8 +286,9 @@
  {
   "id": 3,
   "name": "Pizza Mizza Statistika",
-  "image_link": "https://www.google.com/maps/place/Pizza+Mizza+Statistika/@40.3830319,49.8234541,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOwywNgxrU9ZzPUKEz4wH_SPTT5gjDAJEon7fpF!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOwywNgxrU9ZzPUKEz4wH_SPTT5gjDAJEon7fpF%3Dw203-h135-k-no!7i4061!8i2707!4m7!3m6!1s0x40307d909eaacff9:0x5b30fe3aea6739d9!8m2!3d40.3830601!4d49.8237087!10e5!16s%2Fg%2F11b76fllny?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D#",
-  "location": {
+"image_link": ["https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1000"]
+  ,
+    "location": {
         "address": "https://maps.app.goo.gl/5q4sX9kR6vqb3Nms7"
  },
   "menu": [
@@ -359,9 +358,10 @@
 {
   "id": 4,
   "name": "Sushi Room",
+  "image_link": ["https://images.unsplash.com/photo-1553621042-f6e147245754?q=80&w=1000"]
+  ,
   "location": {
     "address": "91 Nizami St, Baku 1010, Azerbaijan",
-    "image_link": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/0-CcE5sAjVx3u0JlSK/hero/4f8162b56e6543bc9d49b40ffbcad538_1618266382674856859.jpeg"
   },
   "menu": [
     {
@@ -445,9 +445,8 @@
 {
   "id": 5,
   "name": "Firuze Restaurant",
-  "image_link": [
-    "https://wolt.com/en/aze/baku/restaurant/firuze-restaurant"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1541518763669-279f00627570?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "Tərlan Əliyarbəyov küçəsi 14, Baku 1005, Azerbaijan"
@@ -584,9 +583,8 @@
 {
   "id": 6,
   "name": "Konak Baku",
-  "restaurant_image_links": [
-    "https://www.instagram.com/konak_baku/?hl=en"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/yQmLyfQoLVpcMob88"
@@ -649,9 +647,8 @@
 {
   "id": 7,
   "name": "Fryday - Caspian Plaza",
-  "restaurant_image_links": [
-    "https://fryday.az/wp-content/uploads/2025/01/fryday-burgers.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1561651823-34feb02250e4?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/TB4Zm27PSYR8e8fL6"
@@ -726,9 +723,8 @@
 {
   "id": 8,
   "name": "Cool Food",
-  "restaurant_image_links": [
-    "https://www.instagram.com/coolfood.az/?hl=en"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1630384066272-17124ff59258?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/aqDBEBMocGfENHX97"
@@ -799,9 +795,8 @@
 {
   "id": 9,
   "name": "Pizza Bruno",
-  "restaurant_image_links": [
-    "https://pizzabruno.az/wp-content/uploads/2025/10/pizza-bruno-baku.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/uUuH7id7sGnnHmwt5"
@@ -855,9 +850,8 @@
 {
   "id": 10,
   "name": "Bake&Roll Sushi Bar",
-  "restaurant_image_links": [
-    "https://www.bakenroll.az/wp-content/uploads/2025/01/bake-roll-sushi.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/dopuGjfENu1QNaTcA"
