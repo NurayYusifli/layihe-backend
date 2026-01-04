@@ -954,9 +954,8 @@
 {
   "id": 11,
   "name": "Chinar Restaurant & Tea House",
-  "restaurant_image_links": [
-    "https://www.chinar-dining.az/wp-content/uploads/2025/01/chinar-exterior.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "Səbail rayonu, Şövkət Ələkbərova küçəsi 1"
@@ -1021,9 +1020,8 @@
 {
   "id": 12,
   "name": "Shirvanshah Museum Restaurant",
-  "restaurant_image_links": [
-    "https://www.shirvanshah.az/uploads/2025/shirvanshah-main.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "Salatın Əsgərova küçəsi 86"
@@ -1069,9 +1067,8 @@
 {
   "id": 13,
   "name": "Fryday Burger",
-  "restaurant_image_links": [
-    "https://fryday.az/img/menu/classic-burger-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "Səbail rayonu, İstiqlaliyyət küçəsi 47"
@@ -1115,9 +1112,8 @@
 {
   "id": 14,
   "name": "Bella Pizza",
-  "restaurant_image_links": [
-    "https://bellapizza.az/assets/images/pepperoni-pizza.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "Nəsimi rayonu, Puşkin küçəsi 12"
@@ -1161,9 +1157,8 @@
 {
   "id": 15,
   "name": "Bir İki Dönər",
-  "restaurant_image_links": [
-    "https://biriki.az/wp-content/uploads/2025/doner-menu.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/uX3LhRk9GqA8fF7C8"
@@ -1199,9 +1194,8 @@
 {
   "id": 16,
   "name": "Paul's Steakhouse Baku",
-  "restaurant_image_links": [
-    "https://pauls-baku.com/images/steak-special-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/8v3M5nJ1y8k9QWzT6"
@@ -1244,9 +1238,8 @@
 {
   "id": 17,
   "name": "Mado Azerbaijan",
-  "restaurant_image_links": [
-    "https://mado.az/assets/img/breakfast-set-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/mPjK9L4w2Z7uR6yY8"
@@ -1282,9 +1275,8 @@
 {
   "id": 18,
   "name": "Derya Fish Restaurant",
-  "restaurant_image_links": [
-    "https://deryafish.az/gallery/fresh-fish-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1502301103675-0bda5cb7ff18?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/4"
@@ -1328,9 +1320,8 @@
 {
   "id": 19,
   "name": "Beirut Lebanese Cuisine",
-  "restaurant_image_links": [
-    "https://beirutbaku.az/assets/images/lebanese-mix-grill.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1544148103-0773bf10d330?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/5"
@@ -1373,9 +1364,8 @@
 {
   "id": 20,
   "name": "Yuka Kaiten Sushi",
-  "restaurant_image_links": [
-    "https://yukabaku.az/images/ramen-bowl-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1550966841-3ee39ad288b8?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/6"
@@ -1418,9 +1408,8 @@
 {
   "id": 21,
   "name": "Hard Rock Cafe Baku",
-  "restaurant_image_links": [
-    "https://cafe.hardrock.com/baku/images/legendary-burger-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1551218808-94e220e084d2?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/7"
@@ -1457,9 +1446,8 @@
 {
   "id": 22,
   "name": "Mari Vanna Baku",
-  "restaurant_image_links": [
-    "https://marivanna.az/assets/img/traditional-borscht.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/8"
@@ -1495,9 +1483,8 @@
 {
   "id": 23,
   "name": "Sky Grill Restaurant",
-  "restaurant_image_links": [
-    "https://www.hilton.com/sky-grill-baku-terrace.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1554679665-f5537f187268?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/9"
@@ -1532,9 +1519,8 @@
 {
   "id": 24,
   "name": "PAUL Azerbaijan",
-  "restaurant_image_links": [
-    "https://paul.az/wp-content/uploads/2026/01/paul-bakery-baku.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/uX3LhRk9GqA8fF7C80"
@@ -1578,9 +1564,8 @@
 {
   "id": 25,
   "name": "Gürkan Şef Steakhouse Baku",
-  "restaurant_image_links": [
-    "https://gurkansef.az/assets/img/steak-art-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/uX3LhRk9GqA8fF7C81"
@@ -1623,9 +1608,8 @@
 {
   "id": 26,
   "name": "Entrée Azerbaijan",
-  "restaurant_image_links": [
-    "https://entree.az/images/sandwiches-selection.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "https://maps.app.goo.gl/uX3LhRk9GqA8fF7C82"
@@ -1660,9 +1644,8 @@
 {
   "id": 27,
   "name": "Dolma Restaurant",
-  "restaurant_image_links": [
-    "https://dolma.az/assets/images/grape-leaf-dolma-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1559329007-40df8a9345d8?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/dolma"
@@ -1705,9 +1688,8 @@
 {
   "id": 28,
   "name": "Nakhchivan Restaurant",
-  "restaurant_image_links": [
-    "https://nakhchivan.az/img/ordubad-omelette-special.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1550966841-3ee39ad288b8?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/nakhchivan"
@@ -1751,9 +1733,8 @@
 {
   "id": 29,
   "name": "Mangal Steak House",
-  "restaurant_image_links": [
-    "https://mangalsteak.az/gallery/dry-aged-beef-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1515669097368-22e68427d265?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/mangal"
@@ -1796,9 +1777,8 @@
 {
   "id": 30,
   "name": "Pivnaya Apteka",
-  "restaurant_image_links": [
-    "https://pivnayaapteka.az/assets/img/huge-burger-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1482049016688-2d3e1b311543?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/pivnaya-apteka"
@@ -1834,9 +1814,8 @@
 {
   "id": 31,
   "name": "Vapiano Baku",
-  "restaurant_image_links": [
-    "https://vapiano.az/menu/fresh-pasta-selection.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/vapiano"
@@ -1873,9 +1852,8 @@
 {
   "id": 32,
   "name": "Coffee Moffie",
-  "restaurant_image_links": [
-    "https://coffeemoffie.com/images/specialty-coffee.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/coffee-moffie"
@@ -1911,9 +1889,8 @@
 {
   "id": 33,
   "name": "Mugham Club",
-  "restaurant_image_links": [
-    "https://monyo.az/uploads/restaurants/mugam_club_main.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1550966841-3ee39ad288b8?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/mugam-club"
@@ -1949,9 +1926,8 @@
 {
   "id": 34,
   "name": "Old Garden Restaurant",
-  "restaurant_image_links": [
-    "https://monyo.az/uploads/restaurants/old_garden_baku.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/old-garden"
@@ -1987,9 +1963,8 @@
 {
   "id": 35,
   "name": "Baku Cafe",
-  "restaurant_image_links": [
-    "https://beat.az/uploads/restaurants/baku_cafe_interior.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/baku-cafe"
@@ -2032,9 +2007,8 @@
 {
   "id": 36,
   "name": "Günaydın Steakhouse Baku",
-  "restaurant_image_links": [
-    "https://gunaydin.az/assets/img/special-lokum-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1473093226795-af9932fe5856?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/gunaydin-baku"
@@ -2079,9 +2053,8 @@
 {
   "id": 37,
   "name": "Sumakh Restaurant",
-  "restaurant_image_links": [
-    "https://beat.az/uploads/restaurants/sumakh_main_2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/sumakh"
@@ -2117,9 +2090,8 @@
 {
   "id": 38,
   "name": "Nusr-Et Steakhouse Baku",
-  "restaurant_image_links": [
-    "https://nusr-et.com.tr/assets/img/baku-interior-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1498654896293-37aacf113fd9?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/nusret-baku"
@@ -2162,9 +2134,8 @@
 {
   "id": 39,
   "name": "SAHiL Bar & Restaurant",
-  "restaurant_image_links": [
-    "https://beat.az/uploads/restaurants/sahil_baku_2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1551218808-94e220e084d2?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/sahil-baku"
@@ -2208,9 +2179,8 @@
 {
   "id": 40,
   "name": "Passage 1901",
-  "restaurant_image_links": [
-    "https://passage1901.az/images/interior-view.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/passage1901"
@@ -2254,9 +2224,8 @@
 {
   "id": 41,
   "name": "M'EAT Steak House",
-  "restaurant_image_links": [
-    "https://meat.az/assets/img/prime-steak-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/meat-baku"
@@ -2301,9 +2270,8 @@
 {
   "id": 42,
   "name": "Shirvanshah Museum Restaurant",
-  "restaurant_image_links": [
-    "https://shirvanshah.az/gallery/museum-dining-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1550966841-3ee39ad288b8?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/shirvanshah"
@@ -2346,9 +2314,8 @@
 {
   "id": 43,
   "name": "Qaynana Restaurant",
-  "restaurant_image_links": [
-    "https://monyo.az/uploads/restaurants/qaynana_baku_2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/qaynana"
@@ -2390,9 +2357,8 @@
 {
   "id": 44,
   "name": "Merci Baku",
-  "restaurant_image_links": [
-    "https://mercibaku.az/assets/img/bistro-vibe.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/merci-baku"
@@ -2434,9 +2400,8 @@
 {
   "id": 45,
   "name": "Manqalüstü",
-  "restaurant_image_links": [
-    "https://monyo.az/uploads/restaurants/manqalustu_khinkali_2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/manqalustu"
@@ -2479,9 +2444,8 @@
 {
   "id": 46,
   "name": "Buddha-Bar Baku",
-  "restaurant_image_links": [
-    "https://buddhabar.az/assets/img/buddha-interior-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/buddhabar-baku"
@@ -2516,9 +2480,8 @@
 {
   "id": 47,
   "name": "Highland Park Cafe",
-  "restaurant_image_links": [
-    "https://bakutravel.az/images/highland-park-view-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1552566626-52f8b828add9?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/highland-park"
@@ -2553,9 +2516,8 @@
 {
   "id": 48,
   "name": "Central Baku",
-  "restaurant_image_links": [
-    "https://centralbaku.monyo.az/assets/img/shakh-plov-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1515669097368-22e68427d265?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/central-baku"
@@ -2599,9 +2561,8 @@
 {
   "id": 49,
   "name": "Paris Bistro Baku",
-  "restaurant_image_links": [
-    "https://paris-bistro.az/assets/img/steak-frites-2026.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1554679665-f5537f187268?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/paris-bistro"
@@ -2645,9 +2606,8 @@
 {
   "id": 50,
   "name": "Chayki Restaurant",
-  "restaurant_image_links": [
-    "https://beat.az/uploads/restaurants/chayki_baku_view.jpg"
-  ],
+  "image_link": ["https://images.unsplash.com/photo-1541518763669-279f00627570?q=80&w=1000"]
+  ,
   "location": {
     "city": "Bakı",
     "address": "http://googleusercontent.com/maps.google.com/chayki-baku"
