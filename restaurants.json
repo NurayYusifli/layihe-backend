@@ -190,7 +190,52 @@
         { "dish": "Chocolate Wave Shake", "price_AZN": 18 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+    {
+      "user": "Aysel Məmmədova",
+      "rating": 5,
+      "comment": "Mükəmməl mənzərə və dadlı yeməklər! Şah pilafını mütləq sınamalısınız.",
+      "date": "2023-12-15"
+    },
+    {
+      "user": "Elnur Qasımov",
+      "rating": 4,
+      "comment": "Yeməklər çox ləzzətlidir, xüsusilə quzu kababı. Ancaq xidmət bir az ləng idi.",
+      "date": "2024-01-05"
+    },
+    {
+      "user": "John Smith",
+      "rating": 5,
+      "comment": "Amazing view of the city and great traditional Azerbaijani food. The sturgeon kebab was world-class.",
+      "date": "2023-11-20"
+    },
+    {
+      "user": "Leyla Əliyeva",
+      "rating": 5,
+      "comment": "Ad günü qeyd etdik, hər şey çox gözəl təşkil olunmuşdu. Napoleon tortu çox təzə idi.",
+      "date": "2024-01-02"
+    },
+    {
+      "user": "Rəşad Bağırov",
+      "rating": 3,
+      "comment": "Mənzərəyə söz ola bilməz, amma qiymətlər porsiyalara görə biraz yüksəkdir.",
+      "date": "2023-12-28"
+    },
+    {
+      "user": "Günel Həsənova",
+      "rating": 4,
+      "comment": "Sakit və xoş atmosferi var. Səhər yeməyi üçün də gəlməyi planlaşdırırıq.",
+      "date": "2023-10-12"
+    },
+    {
+      "user": "Tural Vəliyev",
+      "rating": 5,
+      "comment": "Basdırma kabab və ev üsulu kartof çox dadlı idi. Ofisiantlar çox gülərüzdür.",
+      "date": "2023-11-05"
+    }
+  ],
+  "average_rating": 4.4
 },
   {
   "id": 2,
@@ -281,7 +326,13 @@
         { "dish": "Tiramisu", "price_AZN": 11 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Anar H.", "rating": 5, "comment": "Muzey kimi restorandır, atmosfer möhtəşəmdir.", "date": "2024-01-10" },
+      { "user": "Kate M.", "rating": 4, "comment": "Traditional music was great, food was authentic.", "date": "2023-12-05" },
+      { "user": "Zaur V.", "rating": 5, "comment": "Qonaqları aparmaq üçün Bakıda ən yaxşı məkandır.", "date": "2024-02-14" }
+    ],
+    "average_rating": 4.7
 },
  {
   "id": 3,
@@ -352,7 +403,13 @@
         { "dish": "Mineral Water 500ml", "price_AZN": 2.00 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Nigar E.", "rating": 4, "comment": "Muğam sədaları altında şam yeməyi çox maraqlı idi.", "date": "2023-11-20" },
+      { "user": "Murad A.", "rating": 3, "comment": "Yeməklər normaldır, amma səs çox yüksək idi.", "date": "2024-01-25" },
+      { "user": "Səbinə Q.", "rating": 5, "comment": "Səci mütləq yoxlayın, əla bişirirlər.", "date": "2024-02-01" }
+    ],
+    "average_rating": 4.0
 }
 ,
 {
@@ -440,7 +497,13 @@
         { "dish": "Fanta 330ml", "price_AZN": 3.9 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Nigar E.", "rating": 4, "comment": "Muğam sədaları altında şam yeməyi çox maraqlı idi.", "date": "2023-11-20" },
+      { "user": "Murad A.", "rating": 3, "comment": "Yeməklər normaldır, amma səs çox yüksək idi.", "date": "2024-01-25" },
+      { "user": "Səbinə Q.", "rating": 5, "comment": "Səci mütləq yoxlayın, əla bişirirlər.", "date": "2024-02-01" }
+    ],
+    "average_rating": 4.0
 },
 {
   "id": 5,
@@ -578,7 +641,13 @@
         { "dish": "Coca‑Cola® 330ml", "price_AZN": 5.5 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Aydın R.", "rating": 5, "comment": "Müasir dizayn və ənənəvi dadın vəhdəti. 5 ulduz.", "date": "2024-02-10" },
+      { "user": "Dəniz K.", "rating": 4, "comment": "Xidmət sürətlidir, kabablar yumşaq və ləzzətlidir.", "date": "2023-11-30" },
+      { "user": "James W.", "rating": 5, "comment": "Best lamb chops I've had in Baku so far!", "date": "2024-01-18" }
+    ],
+    "average_rating": 4.6
 },
 {
   "id": 6,
@@ -642,7 +711,13 @@
         { "dish": "Ayran 300ml", "price_AZN": 1.90 }
       ]
     }
-  ]
+  ],
+    "reviews": [
+      { "user": "Rauf G.", "rating": 4, "comment": "Dəniz kənarında gözəl axşam yeməyi üçün əladır.", "date": "2023-12-20" },
+      { "user": "Lalə F.", "rating": 3, "comment": "Mənzərə superdir, amma qiymətlər bir az bahadır.", "date": "2024-01-05" },
+      { "user": "Viktor P.", "rating": 5, "comment": "Excellent wine list and great steaks.", "date": "2024-02-12" }
+    ],
+    "average_rating": 4.0
 },
 {
   "id": 7,
@@ -718,7 +793,13 @@
         { "dish": "Red Bull® 250ml", "price_AZN": 6.40 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Maya H.", "rating": 5, "comment": "Asiya mətbəxi sevənlər üçün Bakıda tək məkandır. Kokteylləri möhtəşəmdir.", "date": "2024-03-12" },
+      { "user": "Sergey V.", "rating": 5, "comment": "Sushi quality is outstanding and the atmosphere is very trendy.", "date": "2024-02-28" },
+      { "user": "Kamran E.", "rating": 4, "comment": "Musiqi bəzən çox yüksək olur, amma yeməklər hər şeyi kompensasiya edir.", "date": "2024-04-01" }
+    ],
+    "average_rating": 4.6
 },
 {
   "id": 8,
@@ -790,7 +871,13 @@
         { "dish": "Ayran 300ml", "price_AZN": 2.50 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Gülər S.", "rating": 4, "comment": "Yeraltı və otantik bir yerdir. Sac yeməkləri çox dadlıdır.", "date": "2024-01-15" },
+      { "user": "Marco R.", "rating": 5, "comment": "Best price/quality ratio in the city center. Very friendly staff.", "date": "2024-03-05" },
+      { "user": "Orxan J.", "rating": 5, "comment": "Xidmət çox sürətlidir, qutabları mütləq dadın.", "date": "2024-04-10" }
+    ],
+    "average_rating": 4.6
 },
 {
   "id": 9,
@@ -844,7 +931,13 @@
         { "dish": "Su 500ml", "price_AZN": 2.50 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Emily B.", "rating": 5, "comment": "The variety of dolma is incredible. A must-visit for tourists.", "date": "2024-02-14" },
+      { "user": "Rəsul T.", "rating": 3, "comment": "Yeməklər dadlıdır, lakin həftəsonu çox sıxlıq olur, rezervasiya vacibdir.", "date": "2024-03-20" },
+      { "user": "Nigar A.", "rating": 4, "comment": "Dizaynı çox maraqlıdır, özünüzü qədim Bakıda hiss edirsiniz.", "date": "2024-04-05" }
+    ],
+    "average_rating": 4.0
 }
 ,
 {
@@ -943,7 +1036,13 @@
         { "dish": "Bonaqua® Water 500ml", "price_AZN": 2 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Həsən M.", "rating": 5, "comment": "Steyk üçün tək ünvanım. Ət tam istədiyim kimi bişirilmişdi.", "date": "2024-03-25" },
+      { "user": "David L.", "rating": 4, "comment": "Great selection of meats. The pepper sauce was excellent.", "date": "2024-02-10" },
+      { "user": "Elnarə Q.", "rating": 5, "comment": "Həm xidmət, həm də keyfiyyət yüksək səviyyədədir.", "date": "2024-04-08" }
+    ],
+    "average_rating": 4.6
 },
 {
   "id": 11,
@@ -1009,7 +1108,13 @@
         { "dish": "Signature Mocktail", "price_AZN": 15 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Fuad B.", "rating": 4, "comment": "Fəvvarələr meydanında yerləşməsi çox rahatdır. Dovğası əladır.", "date": "2024-01-30" },
+      { "user": "Anna K.", "rating": 5, "comment": "Wonderful interior and very tasty traditional breakfast.", "date": "2024-03-18" },
+      { "user": "Teymur V.", "rating": 3, "comment": "Turistik olduğu üçün biraz baha gəldi, amma dadı yerindədir.", "date": "2024-04-02" }
+    ],
+    "average_rating": 4.0
 },
 {
   "id": 12,
@@ -1056,7 +1161,12 @@
         { "dish": "Sirab Premium 750ml", "price_AZN": 6 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Olga K.", "rating": 5, "comment": "Sanki nənəmin evinə qonaq getmişəm, atmosfer çox səmimidir.", "date": "2024-05-02" },
+      { "user": "Vüsal R.", "rating": 4, "comment": "Borş və vareniki möhtəşəmdir, xidmət bir az yavaş ola bilər.", "date": "2024-06-10" }
+    ],
+    "average_rating": 4.5
 },
 {
   "id": 13,
@@ -1101,7 +1211,12 @@
         { "dish": "Limonad 500ml", "price_AZN": 6 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Paolo G.", "rating": 5, "comment": "Best pasta in Baku! Feels like home.", "date": "2024-04-15" },
+      { "user": "Səadət E.", "rating": 5, "comment": "Lazanyası və tiramisusu çox dadlıdır, mütləq yoxlayın.", "date": "2024-05-20" }
+    ],
+    "average_rating": 5.0
 },
 {
   "id": 14,
@@ -1146,7 +1261,13 @@
         { "dish": "Ev Sayağı Nanəli Limonad", "price_AZN": 7 }
       ]
     }
-  ]
+  ],
+  "restaurant_name": "Zafferano",
+    "reviews": [
+      { "user": "Mehman A.", "rating": 4, "comment": "Four Seasons keyfiyyəti hiss olunur. Çox lüks məkandır.", "date": "2024-03-11" },
+      { "user": "Linda S.", "rating": 5, "comment": "Excellent brunch and professional staff.", "date": "2024-05-05" }
+    ],
+    "average_rating": 4.5
 },
 {
   "id": 15,
@@ -1183,7 +1304,14 @@
         { "dish": "Fuse Tea® 330ml", "price_AZN": 2.5 }
       ]
     }
-  ]
+  ],
+  "restaurant_id": 15,
+    "restaurant_name": "Paris Bistro",
+    "reviews": [
+      { "user": "Könül T.", "rating": 5, "comment": "Səhər yeməyi üçün əla seçimdir. Kruassanlar təzə idi.", "date": "2024-06-01" },
+      { "user": "Marc D.", "rating": 3, "comment": "Atmosphere is nice but portions are small for the price.", "date": "2024-05-18" }
+    ],
+    "average_rating": 4.0
 },
 {
   "id": 16,
@@ -1227,7 +1355,12 @@
         { "dish": "Red Bull® 250ml", "price_AZN": 7 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Ramil Q.", "rating": 5, "comment": "Burgerlər çox şirəli və dadlıdır. Sousları özəldir.", "date": "2024-02-22" },
+      { "user": "Tural N.", "rating": 4, "comment": "Ət keyfiyyəti yüksəkdir, dumanlı bir az çox idi içəridə.", "date": "2024-04-30" }
+    ],
+    "average_rating": 4.5
 },
 {
   "id": 17,
@@ -1264,7 +1397,12 @@
         { "dish": "Cappuccino", "price_AZN": 8 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Ramil Q.", "rating": 5, "comment": "Burgerlər çox şirəli və dadlıdır. Sousları özəldir.", "date": "2024-02-22" },
+      { "user": "Tural N.", "rating": 4, "comment": "Ət keyfiyyəti yüksəkdir, dumanlı bir az çox idi içəridə.", "date": "2024-04-30" }
+    ],
+    "average_rating": 4.5
 },
 {
   "id": 18,
@@ -1309,7 +1447,12 @@
         { "dish": "Nar Şirəsi (Təbii)", "price_AZN": 10 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Aysel V.", "rating": 5, "comment": "Hər zaman stabil keyfiyyət. Menyu çox zəngindir.", "date": "2024-04-10" },
+      { "user": "Emin C.", "rating": 4, "comment": "Ailəvi getmək üçün çox rahat yerdir, uşaq menyusu da var.", "date": "2024-06-05" }
+    ],
+    "average_rating": 4.5
 },
 {
   "id": 19,
@@ -1353,7 +1496,12 @@
         { "dish": "Bonaqua® 500ml", "price_AZN": 3 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Leyla H.", "rating": 4, "comment": "Gənc və enerjili bir yerdir. Modern milli yeməkləri var.", "date": "2024-03-28" },
+      { "user": "Samir U.", "rating": 3, "comment": "Yeməklər gec gəldi, amma dadı pis deyildi.", "date": "2024-05-14" }
+    ],
+    "average_rating": 3.5
 },
 {
   "id": 20,
@@ -1397,7 +1545,12 @@
         { "dish": "Coca‑Cola® 330ml", "price_AZN": 4 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Nərgiz M.", "rating": 5, "comment": "Çox eleqant bir restoran. Xüsusi günlər üçün idealdır.", "date": "2024-02-14" },
+      { "user": "Sophie L.", "rating": 5, "comment": "The seafood platter was fresh and beautifully presented.", "date": "2024-04-20" }
+    ],
+    "average_rating": 5.0
 },
 {
   "id": 21,
@@ -1435,7 +1588,12 @@
         { "dish": "Local Craft Beer 500ml", "price_AZN": 9 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Orxan S.", "rating": 5, "comment": "Şəhərin mənzərəsi buradan bir başqa görünür. Romantik şam yeməyi üçün əladır.", "date": "2024-07-12" },
+      { "user": "Elena P.", "rating": 4, "comment": "Beautiful terrace and great cocktails, but prices are a bit on the high side.", "date": "2024-08-05" }
+    ],
+    "average_rating": 4.5
 },
 {
   "id": 22,
@@ -1472,7 +1630,12 @@
         { "dish": "Tərxun Limonadı", "price_AZN": 9 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Zaur L.", "rating": 5, "comment": "Əsl ev yeməkləri dadı verir. Fisincan plovunu mütləq yoxlayın.", "date": "2024-06-22" },
+      { "user": "Aytən Q.", "rating": 3, "comment": "Yeməklər dadlıdır, amma interyer bir az yenilənməlidir.", "date": "2024-09-10" }
+    ],
+    "average_rating": 4.0
 },
 {
   "id": 23,
@@ -1508,7 +1671,12 @@
         { "dish": "Sirab Premium 750ml", "price_AZN": 8 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Mark B.", "rating": 5, "comment": "Fantastic view of the Maiden Tower. The grilled sturgeon was delicious.", "date": "2024-05-30" },
+      { "user": "Nigar D.", "rating": 4, "comment": "İçərişəhərdə dincəlmək üçün çox sakit və mənzərəli məkandır.", "date": "2024-08-14" }
+    ],
+    "average_rating": 4.5
 },
 {
   "id": 24,
@@ -1553,7 +1721,12 @@
         { "dish": "Təzə Sıxılmış Portağal Şirəsi", "price_AZN": 14 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Elvin Z.", "rating": 5, "comment": "Pivə sevənlər üçün cənnətdir. Xüsusilə hisə verilmiş ətləri bəyəndim.", "date": "2024-10-02" },
+      { "user": "Samir X.", "rating": 4, "comment": "Dostlarla futbol izləmək və vaxt keçirmək üçün ən yaxşı yerlərdən biridir.", "date": "2024-09-18" }
+    ],
+    "average_rating": 4.5
 },
 {
   "id": 25,
@@ -1597,7 +1770,12 @@
         { "dish": "Sirab Premium 750ml", "price_AZN": 8 }
       ]
     }
-  ]
+  ],
+  "reviews": [
+      { "user": "Səbinə R.", "rating": 4, "comment": "Aralıq dənizi mətbəxi çox yaxşı təqdim olunur. Humus və falafel dadlı idi.", "date": "2024-07-25" },
+      { "user": "Thomas W.", "rating": 5, "comment": "Top notch service and authentic flavors. One of the best hotel restaurants.", "date": "2024-11-01" }
+    ],
+    "average_rating": 4.5
 },
 {
   "id": 26,
